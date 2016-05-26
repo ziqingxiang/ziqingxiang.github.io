@@ -1,0 +1,3 @@
+<hr/>
+<p>{% for node in site.data.nav %}{% if page.url == node.url %}<strong>{{ node.text }}</strong>{% else %}<a href="{{ node.url | prepend: site.baseurl }}">{{ node.text }}</a>{% endif %}{% if forloop.last %}{% else %} || {% endif%}{% endfor %}</p>
+<hr/>

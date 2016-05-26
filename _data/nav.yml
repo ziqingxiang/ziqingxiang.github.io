@@ -1,0 +1,8 @@
+- text: Home
+  url: /
+- text: Papers
+  url: /papers
+- text: Problems
+  url: /problems
+- text: Thoughts
+  url: /thoughts

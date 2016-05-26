@@ -7,7 +7,7 @@ permalink: /
 # Ziqing Xiang
 I am a second year graduate student at University of Georgia, USA.
 
-[CV](//googledrive.com/host/0B7V9XO4AFK27ai1INXhKUm9Fdnc)
+[CV](data/CV.pdf)
 
 ## Contact
 * Email: <ziqing@uga.com>

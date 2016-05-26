@@ -10,7 +10,7 @@ I am a second year graduate student at University of Georgia, USA.
 [CV](data/CV.pdf)
 
 ## Contact
-* Email: <ziqing@uga.com>
+* Email: <ziqing@uga.edu>
 * Mobile Phone: +86-137-6682-2808
 
 ## Research Interest

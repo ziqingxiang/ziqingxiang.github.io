@@ -4,8 +4,10 @@ title: Papers
 permalink: /papers
 ---
 
-## Designs
+## Design Theory
 * [A Fisher type inequality for weighted regular $$t$$-wise balanced designs](http://www.sciencedirect.com/science/article/pii/S0097316512000714), Journal of Combinatorial Theory A, 119 (2012), 1523-1527. [Preprint](data/A Fisher type inequality for weighted regular t-wise balanced designs.pdf)
+
+## Graph Theory
 * Hamiltonian decomposition of prisms over cubic graphs; with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303); Discrete Mathematics & Theoretical Computer Science.
 
 ## In preparation

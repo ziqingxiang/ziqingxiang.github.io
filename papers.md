@@ -8,11 +8,13 @@ permalink: /papers
 * [A Fisher type inequality for weighted regular $$t$$-wise balanced designs](http://www.sciencedirect.com/science/article/pii/S0097316512000714), Journal of Combinatorial Theory A, 119 (2012), 1523-1527. [Preprint](data/A Fisher type inequality for weighted regular t-wise balanced designs.pdf)
 
 ## Graph Theory
-* Hamiltonian decomposition of prisms over cubic graphs; with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303); Discrete Mathematics & Theoretical Computer Science.
+* Hamiltonian decomposition of prisms over cubic graphs, joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303), Discrete Mathematics & Theoretical Computer Science.
+
+## Submitted
+* Nonexistence of nontrivial tight $$8$$-designs. [Preprint](data/Nonexistence of nontrivial tight 8-designs.pdf).
+* Integral points on variable seperated curves. Joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/).
 
 ## In preparation
-* Nonexistence of nontrivial tight $$8$$-designs. [Preprint](data/Nonexistence of nontrivial tight 8-designs.pdf). Submited.
-* Integral points on variable seperated curves. Joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/). Submitted.
 * Rational designs. Joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and Jiacheng Xia. [Abstract](data/Rational designs.pdf)
 * Support variety for Hecke algebras of type A. Joint work with [Daniel Nakano](http://alpha.math.uga.edu/~nakano/).
 * Lit-only $$\sigma$$-game. Joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [Abstract](data/Lig-only sigma-game.pdf)

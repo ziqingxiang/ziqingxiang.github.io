@@ -13,7 +13,7 @@ I am a second year graduate student at University of Georgia, USA.
 * Email: <ziqing@uga.edu>
 * Mobile Phone: +86-137-6682-2808
 
-## Research Interest
+## Research Interests
 * Association Schemes
 * Designs
 * Graphs

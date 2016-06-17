@@ -9,7 +9,7 @@ permalink: /papers
   Journal of Combinatorial Theory A, 119(7):1523-1527, 2012. [doi:10.1016/j.jcta.2012.04.008](http://dx.doi.org/10.1016/j.jcta.2012.04.008)
 
 ## Graph Theory
-* [Hamiltonian decomposition of prisms over cubic graphs](http://www.dmtcs.org/dmtcs-ojs/index.php/dmtcs/article/view/2525), joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303). \\
+* [Hamiltonian decomposition of prisms over cubic graphs](http://www.dmtcs.org/dmtcs-ojs/index.php/dmtcs/article/view/2525), joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303), \\
   Discrete Mathematics & Theoretical Computer Science, 16(2):111-124, 2014.
 
 ## Submitted

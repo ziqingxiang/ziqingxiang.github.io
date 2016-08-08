@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Ziqing Xiang
-I am a second year graduate student at University of Georgia, USA.
+I am a third year graduate student at University of Georgia, USA.
 
 [CV](data/CV.pdf)
 

@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Ziqing Xiang
-I am a third year graduate student at University of Georgia, USA.
+I am a third year graduate student at University of Georgia, USA. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
 
 [CV](data/CV.pdf)
 
@@ -17,6 +17,6 @@ I am a third year graduate student at University of Georgia, USA.
 * Association Schemes
 * Designs
 * Graphs
-* Hecke Algebras
+* Iwahori-Hecke Algebras
 * Representation Theory
 * Symbolic Dynamics

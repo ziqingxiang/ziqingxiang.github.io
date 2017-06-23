@@ -9,7 +9,7 @@ permalink: /papers
   Journal of Combinatorial Theory A, 119(7):1523-1527, 2012. [doi:10.1016/j.jcta.2012.04.008](http://dx.doi.org/10.1016/j.jcta.2012.04.008)
 
 ## Graph Theory
-* [Hamiltonian decomposition of prisms over cubic graphs](http://www.dmtcs.org/dmtcs-ojs/index.php/dmtcs/article/view/2525), joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303), \\
+* [Hamiltonian decomposition of prisms over cubic graphs](http://dmtcs.episciences.org/2079), joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303), \\
   Discrete Mathematics & Theoretical Computer Science, 16(2):111-124, 2014.
 
 ## Submitted
@@ -18,9 +18,9 @@ permalink: /papers
 
 ## In preparation
 * Support varieties for Hecke algebras of type A, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/)
-* Rational designs, joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and Jiacheng Xia. [(abstract)](data/Rational designs.pdf)
+* Rational designs, joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and [Jiacheng Xia](http://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xxiaji&departmentId=013006). [(abstract)](data/Rational designs.pdf)
 * Hamiltonian thickness, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
-* Strongly regular graphs and tight spherical designs, joint work Eiichi Bannai, Etsuko Bannai, Wei-Hsuan Yu and Yan Zhu.
+* Strongly regular graphs and tight spherical designs, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/).
 * Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)
 * Inferring phylogenies from incomplete metric information, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/), Zeying Xu, [Yinfeng Zhu](http://zhuyinfeng.org/).
 * Positive matrices, primitive matrices, scrambling matrices and contractible matrices, joint work with [Xinmao Wang](http://math.ustc.edu.cn/new/teachersinfo1.php?id=69) and [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/).

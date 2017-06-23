@@ -19,9 +19,10 @@ permalink: /papers
 ## In preparation
 * Support varieties for Hecke algebras of type A, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/)
 * Rational designs, joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and Jiacheng Xia. [(abstract)](data/Rational designs.pdf)
-* Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)
+* Hamiltonian thickness, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
 * Strongly regular graphs and tight spherical designs, joint work Eiichi Bannai, Etsuko Bannai, Wei-Hsuan Yu and Yan Zhu.
+* Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)
+* Inferring phylogenies from incomplete metric information, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/), Zeying Xu, [Yinfeng Zhu](http://zhuyinfeng.org/).
+* Positive matrices, primitive matrices, scrambling matrices and contractible matrices, joint work with [Xinmao Wang](http://math.ustc.edu.cn/new/teachersinfo1.php?id=69) and [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/).
 * Product of P-polynomial association schemes. [(abstract)](data/Product of P-polynomial association schemes.pdf)
-* Hamiltonian thickness, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and Yinfeng Zhu. [(abstract)](data/Hamiltonian thickness.pdf)
-* Positive matrices, primitive matrices, scrambling matrices, contractible matrices, joint work with [Xinmao Wang](http://math.ustc.edu.cn/new/teachersinfo1.php?id=69) and [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/).
 * $$s$$-distance set in real hyperbolic space.

@@ -7,14 +7,14 @@ permalink: /papers
 ## Design Theory
 * [A Fisher type inequality for weighted regular $$t$$-wise balanced designs](http://www.sciencedirect.com/science/article/pii/S0097316512000714), [(preprint)](data/A Fisher type inequality for weighted regular t-wise balanced designs.pdf) \\
   Journal of Combinatorial Theory A, 119(7):1523-1527, 2012. [doi:10.1016/j.jcta.2012.04.008](http://dx.doi.org/10.1016/j.jcta.2012.04.008)
+* Nonexistence of nontrivial tight $$8$$-designs. Journal of Algebraic Combinatorics. Accepted. [(preprint)](data/Nonexistence of nontrivial tight 8-designs.pdf)
 
 ## Graph Theory
 * [Hamiltonian decomposition of prisms over cubic graphs](http://dmtcs.episciences.org/2079), joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303), \\
   Discrete Mathematics & Theoretical Computer Science, 16(2):111-124, 2014.
 
 ## Submitted
-* Nonexistence of nontrivial tight $$8$$-designs. [(preprint)](data/Nonexistence of nontrivial tight 8-designs.pdf)
-* Integral points on variable seperated curves, joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/).
+* Integral points on variable separated curves, joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/).
 
 ## In preparation
 * Support varieties for Hecke algebras of type A, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/)

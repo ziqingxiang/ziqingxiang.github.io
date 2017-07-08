@@ -8,9 +8,9 @@ permalink: /papers
 * [A Fisher type inequality for weighted regular $$t$$-wise balanced designs](http://www.sciencedirect.com/science/article/pii/S0097316512000714),
   [(preprint)](data/A Fisher type inequality for weighted regular t-wise balanced designs.pdf) \\
   Journal of Combinatorial Theory A, 119(7):1523-1527, 2012. [doi:10.1016/j.jcta.2012.04.008](http://dx.doi.org/10.1016/j.jcta.2012.04.008)
-* Nonexistence of nontrivial tight $$8$$-designs,
+* [Nonexistence of nontrivial tight $$8$$-designs](https://link.springer.com/article/10.1007/s10801-017-0776-0),
   [(preprint)](data/Nonexistence of nontrivial tight 8-designs.pdf) \\
-  Journal of Algebraic Combinatorics. Accepted. [doi:10.1007/s10801-017-0776-0](http://dx.doi.org/10.1007/s10801-017-0776-0)
+  Journal of Algebraic Combinatorics. to appear. [doi:10.1007/s10801-017-0776-0](http://dx.doi.org/10.1007/s10801-017-0776-0)
 
 ## Graph Theory
 * [Hamiltonian decomposition of prisms over cubic graphs](http://dmtcs.episciences.org/2079), joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303), \\

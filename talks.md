@@ -6,7 +6,7 @@ permalink: /talks
 
 ## Talks
 
-* Jul. 26, 2017. [Dimensions of Specht modules](20170726 - Dimension of Specht modules.pdf),
+* Jul. 26, 2017. [Dimensions of Specht modules](data/20170726 - Dimension of Specht modules.pdf),
   [Graduate summer conference](https://research.franklin.uga.edu/agant/content/mock-ams-conference-2017),
   University of Georgia.
 * Apr. 25, 2015. The lit-only $$\sigma$$-game,

@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Ziqing Xiang
-I am a third year graduate student at University of Georgia, USA. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
+I am a fourth year graduate student at University of Georgia, USA. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
 
 [CV](data/CV.pdf)
 

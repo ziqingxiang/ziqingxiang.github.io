@@ -36,6 +36,11 @@ I am a fourth year graduate student at University of Georgia, USA. My advisor is
 ## Contact
 * Email: <ziqing@uga.edu>
 * Mobile Phone: +86-137-6682-2808
+* Mailing address: \\
+Department of Mathematics \\
+Boyd Graduate Studies Research Center \\
+University of Georgia \\
+Athens, GA, 30602, USA
 
 ## Research Interests
 * Association Schemes

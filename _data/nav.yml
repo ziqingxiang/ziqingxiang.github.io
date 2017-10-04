@@ -1,10 +1,6 @@
 - text: Home
   url: /
-- text: Papers
-  url: /papers
 - text: Talks
   url: /talks
-- text: Problems
-  url: /problems
-- text: Thoughts
-  url: /thoughts
+- text: CV
+  url: /data/CV.pdf

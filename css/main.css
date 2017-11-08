@@ -71,3 +71,7 @@ hr {
 	background: gray;
 	height: 1px;
 }	
+
+li {
+	margin-top: 6pt;
+}

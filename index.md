@@ -35,6 +35,7 @@ I am a fourth year graduate student at University of Georgia, USA. My advisor is
 
 ## Contact
 * Email: <ziqing@uga.edu>
+* Office: Boyd 427K
 * Mobile Phone: +86-137-6682-2808
 * Mailing address: \\
 Department of Mathematics \\

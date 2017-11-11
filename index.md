@@ -25,6 +25,7 @@ I am a fourth year graduate student at University of Georgia, USA. My advisor is
 
 ## Papers in preparation
 * Support varieties for Hecke algebras, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/)
+* An explicit construction of spherical designs
 * Hamiltonian thickness, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
 * Classification problem of certain spherical embeddings of strongly regular graphs, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/).
 * Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)

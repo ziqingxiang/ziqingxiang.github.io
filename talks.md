@@ -66,3 +66,15 @@ permalink: /talks
 * Jun. 13, 2013. Relative designs, totally positive sequence and zero distribution, \\
   [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2013/home.php),
   Shanghai Jiao Tong University.
+* Nov. 21, 2012. Some $$s$$-distance sets in hyperbolic space, \\
+  [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2012/),
+  Shanghai Jiao Tong University.
+* Jun. 6, 2012. On the nonexistence of nontrivial tight $$8$$-design, \\
+  [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2012/),
+  Shanghai Jiao Tong University.
+* Apr. 22, 2012. Rational spherical $$t$$-semi-design, \\
+  [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2012/),
+  Shanghai Jiao Tong University.
+* Mar. 4, 2012. A glimpse at $$P$$-polynomial association schemes, \\
+  [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2012/),
+  Shanghai Jiao Tong University.

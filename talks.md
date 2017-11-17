@@ -4,22 +4,16 @@ title: Talks
 permalink: /talks
 ---
 
-## Talks
+## Conference Talks
 
 * Nov., 2017. An explicit construction of spherical designs, \\
   [International workshop on Bannai-Ito theory](http://person.zju.edu.cn/en/tfeng/706390.html),
   Zhejiang University.
-* Nov. 6, 2017. An introduction to Soergel bimodules, \\
-  [Algebra seminar](https://calendar.google.com/calendar/event?eid=NWdlajZzYjY4bm5xdXVldml1YW9tZmxkNGVfMjAxNzExMDZUMjAzMDAwWiBzczRwczhoMDN2NjJmMXZodWY0MGMyajg3b0Bn&ctz=America/New_York),
-  University of Georgia
 * Jul. 26, 2017. [Dimensions of Specht modules](data/20170726 - Dimension of Specht modules.pdf), \\
   [Graduate summer conference](https://research.franklin.uga.edu/agant/content/mock-ams-conference-2017),
   University of Georgia.
 * Jul. 28, 2016. Support varieties of Iwahori-Hecke algebras of type A, \\
-  Graduate summer conference,
-  University of Georgia.
-* Apr. 13, 2016. Sphere packings, spherical codes and spherical designs, \\
-  [Number theory seminar](https://calendar.google.com/calendar/event?eid=bHZnc2xpN3Q5ZGU4OWRvN3NqaGM3cjJkNzQgdWdhbnVtYmVydGhlb3J5QG0&ctz=America/New_York),
+  [Graduate student summer conference](https://research.franklin.uga.edu/agant/content/mock-ams-conference-2016),
   University of Georgia.
 * Apr. 25, 2015. The lit-only $$\sigma$$-game, \\
   [2015 Workshop on Combinatorics and Applications at SJTU](http://math.sjtu.edu.cn/Conference/2015WCA/home.php),
@@ -47,4 +41,28 @@ permalink: /talks
   Shanghai Jiao Tong University.
 * Sep. 16, 2011. Fisher type inequality, \\
   [Workshop on Algebraic Combinatorics](http://math.sjtu.edu.cn/Conference/WACSJTU/index.html),
+  Shanghai Jiao Tong University.
+
+## Seminar talks
+
+* Nov. 6, 2017. An introduction to Soergel bimodules, \\
+  [Algebra Seminar](https://calendar.google.com/calendar/event?eid=NWdlajZzYjY4bm5xdXVldml1YW9tZmxkNGVfMjAxNzExMDZUMjAzMDAwWiBzczRwczhoMDN2NjJmMXZodWY0MGMyajg3b0Bn&ctz=America/New_York),
+  University of Georgia.
+* May 29, 2017. An explicit construction of spherical designs, \\
+  [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2017/home.php),
+  Shanghai Jiao Tong University.
+* Apr. 13, 2016. Sphere packings, spherical codes and spherical designs, \\
+  [Number Theory Seminar](https://calendar.google.com/calendar/event?eid=bHZnc2xpN3Q5ZGU4OWRvN3NqaGM3cjJkNzQgdWdhbnVtYmVydGhlb3J5QG0&ctz=America/New_York),
+  University of Georgia.
+* Jan. 28, 2015. Nonexistence of tight $$8$$-design, \\
+  [Number Theory Seminar](https://calendar.google.com/calendar/event?eid=ZmtqNjFvYWJxZW4zY2lrNjlqcGZnZzFzaDAgdWdhbnVtYmVydGhlb3J5QG0&ctz=America/New_York),
+  University of Georgia.
+* Jul. 9, 2014. Structure of strongly regular , \\
+  [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2014/home.php),
+  Shanghai Jiao Tong University.
+* Apr. 12, 2014. Laplacians, \\
+  [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2014/home.php),
+  Shanghai Jiao Tong University.
+* Jun. 13, 2013. Relative designs, totally positive sequence and zero distribution, \\
+  [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2013/home.php),
   Shanghai Jiao Tong University.

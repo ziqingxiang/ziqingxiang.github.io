@@ -6,7 +6,7 @@ permalink: /talks
 
 ## Conference Talks
 
-* Nov., 2017. An explicit construction of spherical designs, \\
+* Nov. 25, 2017. [An explicit construction of spherical designs](data/20171125 - An explicit construction of spherical designs.pdf), \\
   [International workshop on Bannai-Ito theory](http://person.zju.edu.cn/en/tfeng/706390.html),
   Zhejiang University.
 * Jul. 26, 2017. [Dimensions of Specht modules](data/20170726 - Dimension of Specht modules.pdf), \\

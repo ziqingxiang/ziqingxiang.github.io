@@ -20,11 +20,13 @@ I am a fourth year graduate student at University of Georgia, USA. My advisor is
   Discrete Mathematics & Theoretical Computer Science, 16(2):111-124, 2014.
 
 ## Papers submitted
-* Integral points on variable separated curves, joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/).
 * Rational designs, joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and [Jiacheng Xia](http://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xxiaji&departmentId=013006). [(PDF)](data/Rational designs.pdf)
 
+## Preprint
+* Support varieties for Hecke algebras, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/). [PDF](data/Support varieties for Hecke algebras.pdf)
+* Integral points on variable separated curves, joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/). [PDF](data/Integral points on variable seperated curves.pdf)
+
 ## Papers in preparation
-* Support varieties for Hecke algebras, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/)
 * An explicit construction of spherical designs
 * Hamiltonian thickness, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
 * Classification problem of certain spherical embeddings of strongly regular graphs, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/).

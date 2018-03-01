@@ -45,7 +45,7 @@ permalink: /talks
 
 ## Seminar talks
 
-* Feb. 5, 2017. Support varieties for Hecke algebras, \\
+* Feb. 5, 2018. Support varieties for Hecke algebras, \\
   [Algebra Seminar](https://calendar.google.com/calendar/event?eid=NWdlajZzYjY4bm5xdXVldml1YW9tZmxkNGVfMjAxODAyMDVUMjAzMDAwWiBzczRwczhoMDN2NjJmMXZodWY0MGMyajg3b0Bn&ctz=America/New_York),
   University of Georgia.
 * Nov. 6, 2017. An introduction to Soergel bimodules, \\

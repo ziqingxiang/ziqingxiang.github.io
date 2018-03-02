@@ -53,3 +53,4 @@ Athens, GA, 30602, USA
 * Iwahori-Hecke Algebras
 * Representation Theory
 * Symbolic Dynamics
+* Schur Algebras

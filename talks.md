@@ -9,12 +9,6 @@ permalink: /talks
 * Nov. 25, 2017. [An explicit construction of spherical designs](data/20171125 - An explicit construction of spherical designs.pdf), \\
   [International workshop on Bannai-Ito theory](http://person.zju.edu.cn/en/tfeng/706390.html),
   Zhejiang University.
-* Jul. 26, 2017. [Dimensions of Specht modules](data/20170726 - Dimension of Specht modules.pdf), \\
-  [Graduate student summer conference](https://research.franklin.uga.edu/agant/content/mock-ams-conference-2017),
-  University of Georgia.
-* Jul. 28, 2016. Support varieties of Iwahori-Hecke algebras of type A, \\
-  [Graduate student summer conference](https://research.franklin.uga.edu/agant/content/mock-ams-conference-2016),
-  University of Georgia.
 * Apr. 25, 2015. The lit-only $$\sigma$$-game, \\
   [2015 Workshop on Combinatorics and Applications at SJTU](http://math.sjtu.edu.cn/Conference/2015WCA/home.php),
   Shanghai Jiao Tong University.
@@ -51,9 +45,15 @@ permalink: /talks
 * Nov. 6, 2017. An introduction to Soergel bimodules, \\
   [Algebra Seminar](https://calendar.google.com/calendar/event?eid=NWdlajZzYjY4bm5xdXVldml1YW9tZmxkNGVfMjAxNzExMDZUMjAzMDAwWiBzczRwczhoMDN2NjJmMXZodWY0MGMyajg3b0Bn&ctz=America/New_York),
   University of Georgia.
+* Jul. 26, 2017. [Dimensions of Specht modules](data/20170726 - Dimension of Specht modules.pdf), \\
+  [Graduate student summer conference](https://research.franklin.uga.edu/agant/content/mock-ams-conference-2017),
+  University of Georgia.
 * May 29, 2017. An explicit construction of spherical designs, \\
   [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2017/home.php),
   Shanghai Jiao Tong University.
+* Jul. 28, 2016. Support varieties of Iwahori-Hecke algebras of type A, \\
+  [Graduate student summer conference](https://research.franklin.uga.edu/agant/content/mock-ams-conference-2016),
+  University of Georgia.
 * Apr. 13, 2016. Sphere packings, spherical codes and spherical designs, \\
   [Number Theory Seminar](https://calendar.google.com/calendar/event?eid=bHZnc2xpN3Q5ZGU4OWRvN3NqaGM3cjJkNzQgdWdhbnVtYmVydGhlb3J5QG0&ctz=America/New_York),
   University of Georgia.

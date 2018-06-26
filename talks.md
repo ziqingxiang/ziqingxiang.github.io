@@ -6,6 +6,9 @@ permalink: /talks
 
 ## Conference Talks
 
+* Jun. 11, 2018. Support varieties for Hecke algebras, \\
+  [Southeastern Lie Theory Workshop X](https://www.math.lsu.edu/~pramod/selie/10/),
+  University of Georgia.
 * Nov. 25, 2017. [An explicit construction of spherical designs](data/20171125 - An explicit construction of spherical designs.pdf), \\
   [International workshop on Bannai-Ito theory](http://person.zju.edu.cn/en/tfeng/706390.html),
   Zhejiang University.

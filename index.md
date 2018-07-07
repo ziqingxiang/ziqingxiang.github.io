@@ -10,18 +10,20 @@ I am a fourth year graduate student at University of Georgia, USA. My advisor is
 ## Design Theory
 * [A Fisher type inequality for weighted regular $$t$$-wise balanced designs](http://www.sciencedirect.com/science/article/pii/S0097316512000714),
   [(PDF)](data/A Fisher type inequality for weighted regular t-wise balanced designs.pdf) \\
-  Journal of Combinatorial Theory A, 119(7):1523-1527, 2012. [doi:10.1016/j.jcta.2012.04.008](http://dx.doi.org/10.1016/j.jcta.2012.04.008)
+  Journal of Combinatorial Theory A, 119(7), 1523-1527, 2012. [doi:10.1016/j.jcta.2012.04.008](http://dx.doi.org/10.1016/j.jcta.2012.04.008)
 * [Nonexistence of nontrivial tight $$8$$-designs](https://link.springer.com/article/10.1007/s10801-017-0776-0),
   [(PDF)](data/Nonexistence of nontrivial tight 8-designs.pdf) \\
-  Journal of Algebraic Combinatorics. to appear. [doi:10.1007/s10801-017-0776-0](http://dx.doi.org/10.1007/s10801-017-0776-0)
+  Journal of Algebraic Combinatorics, 47(2), 301-318, 2018. [doi:10.1007/s10801-017-0776-0](http://dx.doi.org/10.1007/s10801-017-0776-0)
 
 ## Graph Theory
 * [Hamiltonian decomposition of prisms over cubic graphs](http://dmtcs.episciences.org/2079), joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303), \\
-  Discrete Mathematics & Theoretical Computer Science, 16(2):111-124, 2014.
+  Discrete Mathematics & Theoretical Computer Science, 16(2), 111-124, 2014.
+
+## Representation Theory
+* Support varieties for Hecke algebras, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/), accepted. [(PDF)](data/Support varieties for Hecke algebras.pdf)
 
 ## Papers submitted
 * Rational designs, joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and [Jiacheng Xia](http://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xxiaji&departmentId=013006). [(PDF)](data/Rational designs.pdf)
-* Support varieties for Hecke algebras, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/). [(PDF)](data/Support varieties for Hecke algebras.pdf)
 * Explicit spherical designs. [(PDF)](data/Explicit spherical designs.pdf)
 
 ## Preprint

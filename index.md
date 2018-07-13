@@ -29,7 +29,7 @@ I am a fourth year graduate student at University of Georgia, USA. My advisor is
 ## Preprint
 * Integral points on variable separated curves, joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/). [(PDF)](data/Integral points on variable seperated curves.pdf)
 * Classification of spherical $$2$$-distance $$\{4, 2, 1\}$$-design, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/). \\
-  Supplemental material: Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions. [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb) [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equations in 3 variables under some conditions.pdf)
+  Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions. [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb) [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equations in 3 variables under some conditions.pdf)
 
 ## Papers in preparation
 * Hamiltonian thickness, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)

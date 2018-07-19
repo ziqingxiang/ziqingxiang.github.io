@@ -23,8 +23,8 @@ I am a fourth year graduate student at University of Georgia, USA. My advisor is
 * Support varieties for Hecke algebras, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/), accepted. [(PDF)](data/Support varieties for Hecke algebras.pdf)
 
 ## Papers submitted
-* Rational designs, joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and [Jiacheng Xia](http://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xxiaji&departmentId=013006). [(PDF)](data/Rational designs.pdf)
-* Explicit spherical designs. [(PDF)](data/Explicit spherical designs.pdf)
+* Rational designs, joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and [Jiacheng Xia](http://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xxiaji&departmentId=013006). Oct. 2017. [(PDF)](data/Rational designs.pdf)
+* Explicit spherical designs. Jul. 2018. [(PDF)](data/Explicit spherical designs.pdf)
 
 ## Preprint
 * Integral points on variable separated curves, joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/). [(PDF)](data/Integral points on variable seperated curves.pdf)

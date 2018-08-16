@@ -32,14 +32,14 @@ I am a fourth year graduate student at University of Georgia, USA. My advisor is
   Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions. [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb) [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equations in 3 variables under some conditions.pdf)
 
 ## Papers in preparation
-* Hamiltonian thickness, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
-* Quantum Schur algebras of classical type, joint work with [Chun-Ju Lai](https://faculty.franklin.uga.edu/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
+* Hamiltonian thickness and spanning topological minors, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
+* On $$q$$-Schur algebras corresponding to Hecke algebras of type B, joint work with [Chun-Ju Lai](https://faculty.franklin.uga.edu/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
 * Nonexistence of $$s$$-distance $$2s$$-designs on unitary groups.
 * Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)
 * Inferring phylogenies from incomplete metric information, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/), Zeying Xu, [Yinfeng Zhu](http://zhuyinfeng.org/).
 * Positive matrices, primitive matrices, scrambling matrices and contractible matrices, joint work with [Xinmao Wang](http://math.ustc.edu.cn/new/teachersinfo1.php?id=69) and [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/).
 * Product of P-polynomial association schemes. [(abstract)](data/Product of P-polynomial association schemes.pdf)
-* $$s$$-distance set in real hyperbolic space.
+* On $$s$$-distance sets in real hyperbolic space.
 
 ## Contact
 * Email: <ziqing@uga.edu>

@@ -42,6 +42,9 @@ permalink: /talks
 
 ## Seminar talks
 
+* Jul. 27, 2018. Good subsets of the unit circle, \\
+  [Graduate student summer conference](https://research.franklin.uga.edu/agant/content/mock-ams-conference-2018),
+  University of Georgia.
 * Feb. 5, 2018. Support varieties for Hecke algebras, \\
   [Algebra Seminar](https://calendar.google.com/calendar/event?eid=NWdlajZzYjY4bm5xdXVldml1YW9tZmxkNGVfMjAxODAyMDVUMjAzMDAwWiBzczRwczhoMDN2NjJmMXZodWY0MGMyajg3b0Bn&ctz=America/New_York),
   University of Georgia.
@@ -63,7 +66,7 @@ permalink: /talks
 * Jan. 28, 2015. Nonexistence of tight $$8$$-design, \\
   [Number Theory Seminar](https://calendar.google.com/calendar/event?eid=ZmtqNjFvYWJxZW4zY2lrNjlqcGZnZzFzaDAgdWdhbnVtYmVydGhlb3J5QG0&ctz=America/New_York),
   University of Georgia.
-* Jul. 9, 2014. Structure of strongly regular , \\
+* Jul. 9, 2014. Structure of strongly connected digraphs, \\
   [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2014/home.php),
   Shanghai Jiao Tong University.
 * Apr. 12, 2014. Laplacians, \\
@@ -78,7 +81,7 @@ permalink: /talks
 * Jun. 6, 2012. On the nonexistence of nontrivial tight $$8$$-design, \\
   [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2012/),
   Shanghai Jiao Tong University.
-* Apr. 22, 2012. Rational spherical $$t$$-semi-design, \\
+* Apr. 22, 2012. Rational spherical $$t$$-semidesign, \\
   [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2012/),
   Shanghai Jiao Tong University.
 * Mar. 4, 2012. A glimpse at $$P$$-polynomial association schemes, \\

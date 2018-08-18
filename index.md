@@ -25,7 +25,7 @@ I am a fourth year graduate student at University of Georgia, USA. My advisor is
 ## Papers submitted
 * Rational designs, joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and [Jiacheng Xia](http://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xxiaji&departmentId=013006). Oct. 2017. [(PDF)](data/Rational designs.pdf)
 * Explicit spherical designs. Jul. 2018. [(PDF)](data/Explicit spherical designs.pdf)
-* Classification of spherical $$2$$-distance $$\{4, 2, 1\}$$-design, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/). Aug. 2018. [(PDF)](data/Classification of spherical 2-distance {4, 2, 1}-design.pdf) \\
+* Classification of spherical $$2$$-distance $$\{4, 2, 1\}$$-design, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/). Aug. 2018. [(PDF)](data/Classification of spherical 2-distance {4, 2, 1}-designs.pdf) \\
   Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions. [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb) [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equations in 3 variables under some conditions.pdf)
 
 ## Preprint

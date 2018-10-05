@@ -27,7 +27,7 @@ permalink: /talks
 * Jun. 24, 2013. [Lit-only $$\sigma$$-game](data/20130624 - Lit-only sigma-game.pdf), \\
   [The 2nd Pacific Rim Mathematical Association Congress](http://meeting.healife.com/prima2013/),
   Shanghai Jiao Tong University.
-* Nov. 21, 2012. Some $$s$$-distance set, \\
+* Nov. 21, 2012. Some $$s$$-distance set in hyperbolic space, \\
   [Mini-Workshop on Spherical Designs and Related Topics](http://math.sjtu.edu.cn/conference/mini/),
   Shanghai Jiao Tong University.
 * Nov. 11, 2012. Incidence matrix and cover matrix, \\

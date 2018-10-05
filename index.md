@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Ziqing Xiang
-I am a fourth year graduate student at University of Georgia, USA. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
+I am a fifth year graduate student at University of Georgia, USA. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
 
 ## Design Theory
 * [A Fisher type inequality for weighted regular $$t$$-wise balanced designs](http://www.sciencedirect.com/science/article/pii/S0097316512000714),
@@ -20,16 +20,15 @@ I am a fourth year graduate student at University of Georgia, USA. My advisor is
   Discrete Mathematics & Theoretical Computer Science, 16(2), 111-124, 2014.
 
 ## Representation Theory
-* Support varieties for Hecke algebras, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/), accepted. [(PDF)](data/Support varieties for Hecke algebras.pdf)
+* Support varieties for Hecke algebras, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/), \\
+  Homology, Homotopy and Applications, accepted. [(PDF)](data/Support varieties for Hecke algebras.pdf)
 
 ## Papers submitted
 * Rational designs, joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and [Jiacheng Xia](http://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xxiaji&departmentId=013006). Oct. 2017. [(PDF)](data/Rational designs.pdf)
 * Explicit spherical designs. Jul. 2018. [(PDF)](data/Explicit spherical designs.pdf)
 * Classification of spherical $$2$$-distance $$\{4, 2, 1\}$$-design, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/). Aug. 2018. [(PDF)](data/Classification of spherical 2-distance {4, 2, 1}-designs.pdf) \\
   Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions. [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb) [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.pdf)
-
-## Preprint
-* Integral points on variable separated curves, joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/). [(PDF)](data/Integral points on variable seperated curves.pdf)
+* Integral points on variable separated curves, joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/). Sep. 2018. [(PDF)](data/Integral points on variable seperated curves.pdf)
 
 ## Papers in preparation
 * Hamiltonian thickness and spanning topological minors, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
@@ -53,8 +52,9 @@ Athens, GA, 30602, USA
 
 ## Research Interests
 * Association Schemes
-* Designs
-* Graphs
+* Design Theory
+* Diophantine Equation
+* Graph Theory
 * Iwahori-Hecke Algebras
 * Representation Theory
 * Symbolic Dynamics

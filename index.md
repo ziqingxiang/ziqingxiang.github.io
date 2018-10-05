@@ -51,11 +51,16 @@ University of Georgia \\
 Athens, GA, 30602, USA
 
 ## Research Interests
-* Association Schemes
-* Design Theory
-* Diophantine Equation
-* Graph Theory
-* Iwahori-Hecke Algebras
+* Combinatorics
+    + Association Schemes
+    + Design Theory
+    + Graph Theory
+    + Symbolic Dynamics
+    + Phylogenetic combinatorics
 * Representation Theory
-* Symbolic Dynamics
-* Schur Algebras
+    + Algebraic roups
+    + Cohomology
+    + Iwahori-Hecke Algebras
+    + Quantum Groups
+    + Schur Algebras
+* Diophantine Equation

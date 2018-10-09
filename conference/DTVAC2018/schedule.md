@@ -78,3 +78,4 @@ Time             | Speaker                     | Title
 ---------------- | --------------------------- | --------------------
 09:00 - 09:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)              | TBA
 10:00 - 10:50    | [Da Zhao (趙達)](http://zhaoda.org/)              | Dig up the Weisfeiler-Lehman algorithm
+11:00 - 11:50    | Suogang Gao (高鎖剛)              | Dig up the Weisfeiler-Lehman algorithm

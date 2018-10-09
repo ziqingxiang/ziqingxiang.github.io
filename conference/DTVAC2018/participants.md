@@ -8,11 +8,9 @@ permalink: /conference/DTVAC2018/participants
 
 Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter.ctgu.edu.cn/), [China Three Gorges Universities (CTGU)](http://www.ctgu.edu.cn/)
 
---------
-
+---
 [Home](.) || [Schedule](schedule) || **Participants**
-
---------
+---
 
 ## Participants
 

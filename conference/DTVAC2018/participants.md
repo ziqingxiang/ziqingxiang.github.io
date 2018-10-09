@@ -17,11 +17,11 @@ Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter
 + Huye Chen (陳虎葉), TGMRC-CTGU
 + Suogang Gao (高鎖剛), Hebei Normal University
 + [Sergey Goryainov](http://www.math.sjtu.edu.cn/faculty/postdocs/Goryainov/index.html), Shanghai Jiao Tong University
-+ Haiyan Guan (關海燕), TGMRC-CTGU
++ Haiyan Guan (關海豔), TGMRC-CTGU
 + Bo Hou (侯波), Hebei Normal University
 + Lihang Hou (侯利航), Hebei Normal University
 + Tatsuro Ito (伊藤達郎), Anhui University
-+ Jack Koolen, University of Science and Technology of China
++ [Jack Koolen](http://staff.ustc.edu.cn/~koolen/), University of Science and Technology of China
 + Zengti Li (李增提), Langfang Normal University
 + Yen-Chi Lin (林延輯), National Taiwan Normal University
 + Fen-Yuan Liu (劉豐源), National Tsing-Hua University

@@ -50,7 +50,7 @@ Time             | Speaker                     | Title
 11:00 - 11:50    | [Da Zhao (趙達)](http://zhaoda.org/)              | On polynomial association schemes
 14:00 - 14:30    | Yuezhong Zhang (張躍忠)     | Some results of tight relative 2-designs on the folded n-cube.
 15:00 - 15:50    | [Sergey Goryainov](http://www.math.sjtu.edu.cn/faculty/postdocs/Goryainov/index.html)            | TBA
-16:00 - 16:50    | Jack Koolen                 | TBA
+16:00 - 16:50    | [Jack Koolen](http://staff.ustc.edu.cn/~koolen/)                 | TBA
 
 ## Oct. 19
 
@@ -70,7 +70,7 @@ Time             | Speaker                     | Title
 Morning          |                             | Discussion
 14:00 - 14:50    | Yuehui Zhang (張躍輝)       | Directed partial orders on the field of generalized complex numbers
 15:00 - 15:50    | Fen-Yuan Liu (劉豐源)       | TBA
-16:00 - 16:50    | Haiyan Guan (關海燕)        | TBA
+16:00 - 16:50    | Haiyan Guan (關海豔)        | TBA
 
 ## Oct. 21
 

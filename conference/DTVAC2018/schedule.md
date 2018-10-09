@@ -30,38 +30,38 @@ Time             | Speaker                     | Title
 
 ## Oct. 16
 
-Time             | Speaker                     | Title
----------------- | --------------------------- | --------------------
-09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/)       | TBA
-10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/)       | TBA
-11:00 - 11:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)              | TBA
-14:00 - 14:50    | Huye Chen (陳虎葉)          | On edge-transitive factorizations of complete uniform hypergraphs
-15:00 - 15:50    | Lin Zhu (朱林)              | On cyclotomic association schemes
-16:00 - 16:50    | Mikio Nakahara (中原幹夫)   | On relevance of quantum information and quantum computing in combinatorics research
+Time             | Speaker                                     | Title
+---------------- | ---------------------------                 | --------------------
+09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | TBA
+10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | TBA
+11:00 - 11:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)        | TBA
+14:00 - 14:50    | Huye Chen (陳虎葉)                          | On edge-transitive factorizations of complete uniform hypergraphs
+15:00 - 15:50    | Lin Zhu (朱林)                              | On cyclotomic association schemes
+16:00 - 16:50    | Mikio Nakahara (中原幹夫)                   | On relevance of quantum information and quantum computing in combinatorics research
 
 ## Oct. 17 (Break)
 
 ## Oct. 18
 
-Time             | Speaker                     | Title
----------------- | --------------------------- | --------------------
-09:00 - 09:50    | Shayne Waldron              | TBA
-10:00 - 10:50    | Shayne Waldron              | TBA
-11:00 - 11:50    | [Da Zhao (趙達)](http://zhaoda.org/)              | On polynomial association schemes
-14:00 - 14:30    | Yuezhong Zhang (張躍忠)     | Some results of tight relative 2-designs on the folded n-cube.
-15:00 - 15:50    | [Sergey Goryainov](http://www.math.sjtu.edu.cn/faculty/postdocs/Goryainov/index.html)            | TBA
-16:00 - 16:50    | [Jack Koolen](http://staff.ustc.edu.cn/~koolen/)                 | TBA
+Time             | Speaker                                                                               | Title
+---------------- | ---------------------------                                                           | --------------------
+09:00 - 09:50    | Shayne Waldron                                                                        | TBA
+10:00 - 10:50    | Shayne Waldron                                                                        | TBA
+11:00 - 11:50    | [Da Zhao (趙達)](http://zhaoda.org/)                                                  | On polynomial association schemes
+14:00 - 14:50    | Suogang Gao (高鎖剛)                                                                  |
+15:00 - 15:50    | [Sergey Goryainov](http://www.math.sjtu.edu.cn/faculty/postdocs/Goryainov/index.html) | TBA
+16:00 - 16:50    | [Jack Koolen](http://staff.ustc.edu.cn/~koolen/)                                      | TBA
 
 ## Oct. 19
 
-Time             | Speaker                     | Title
----------------- | --------------------------- | --------------------
-09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/)       | TBA
-10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/)       | TBA
-11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)       | TBA
-14:00 - 14:50    | Eiichi Bannai (坂内英一)    | Unitary $$t$$-designs and unitary $$t$$-groups
-15:00 - 15:50    | Etsuko Bannai (坂內悅子)    | TBA
-16:00 - 16:50    | Shen Hao (沈灝)             | TBA
+Time             | Speaker                                     | Title
+---------------- | ---------------------------                 | --------------------
+09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | TBA
+10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | TBA
+11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)                       | TBA
+14:00 - 14:50    | Eiichi Bannai (坂内英一)                    | Unitary $$t$$-designs and unitary $$t$$-groups
+15:00 - 15:50    | Etsuko Bannai (坂內悅子)                    | TBA
+16:00 - 16:50    | Shen Hao (沈灝)                             | TBA
 
 ## Oct. 20
 
@@ -74,8 +74,8 @@ Morning          |                             | Discussion
 
 ## Oct. 21
 
-Time             | Speaker                     | Title
----------------- | --------------------------- | --------------------
-09:00 - 09:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)              | TBA
-10:00 - 10:50    | [Da Zhao (趙達)](http://zhaoda.org/)              | Dig up the Weisfeiler-Lehman algorithm
-11:00 - 11:50    | Suogang Gao (高鎖剛)              | Dig up the Weisfeiler-Lehman algorithm
+Time             | Speaker                              | Title
+---------------- | ---------------------------          | --------------------
+09:00 - 09:50    | [Yan Zhu (朱豔)](http://yanzhu.org/) | TBA
+10:00 - 10:50    | [Da Zhao (趙達)](http://zhaoda.org/) | Dig up the Weisfeiler-Lehman algorithm
+11:00 - 11:30    | Yuezhong Zhang (張躍忠)              | Some results of tight relative 2-designs on the folded n-cube.

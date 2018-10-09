@@ -19,5 +19,5 @@ This will be a very informal workshop of relatively small size. We will discuss 
 + Eiichi Bannai (坂内英一), Kyushu University and TGMRC
 + Huye Chen (陳虎葉), TGMRC-CTGU
 + Haiyan Guan (關海燕), TGMRC-CTGU
-+ Yan Zhu (朱豔), Shanghai University
++ [Yan Zhu (朱豔)](http://yanzhu.org/), Shanghai University
 + Xuemei Deng (鄧雪梅), TGMRC

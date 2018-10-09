@@ -31,12 +31,13 @@ Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter
 + Hao Shen (沈灝), Shanghai Jiao Tong University
 + Sho Suda (須田庄), Aichi University of Education
 + Shayne Waldron, University of Auckland
++ [Ziqing Xiang (向子卿)](http://ziqing.org/), University of Georgia
 + Zili Xu (徐孜立), Beijing Academics
 + Wei-Hsuan Yu (俞韋亘), National Central University
 + Landang Yuan (袁蘭黨), Hebei Normal University
 + Xiaodong Zhang (張曉東), Shanghai Jiao Tong University
 + Yuehui Zhang (張躍輝), Shanghai Jiao Tong University
 + Yuezhong Zhang (張躍忠), Hebei Normal University
-+ Da Zhao (趙達), Shanghai Jiao Tong University,
++ [Da Zhao (趙達)](http://zhaoda.org/), Shanghai Jiao Tong University,
 + Lin Zhu (朱林), University of Shanghai for Science and Technology
-+ Yan Zhu (朱豔), Shanghai University
++ [Yan Zhu (朱豔)](http://yanzhu.org/), Shanghai University

@@ -6,6 +6,18 @@ permalink: /talks
 
 ## Conference Talks
 
+* Oct. 19, 2018. TBA, \\
+  [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
+  Three Gorges Math Research Center.
+* Oct. 19, 2018. TBA, \\
+  [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
+  Three Gorges Math Research Center.
+* Oct. 16, 2018. TBA, \\
+  [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
+  Three Gorges Math Research Center.
+* Oct. 16, 2018. TBA, \\
+  [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
+  Three Gorges Math Research Center.
 * Jun. 11, 2018. Support varieties for Hecke algebras, \\
   [Southeastern Lie Theory Workshop X](https://www.math.lsu.edu/~pramod/selie/10/),
   University of Georgia.

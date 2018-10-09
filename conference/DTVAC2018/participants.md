@@ -12,8 +12,6 @@ Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter
 [Home](.) || [Schedule](schedule) || **Participants**
 <hr />
 
-## Participants
-
 + Eiichi Bannai (坂内英一), Kyushu University and TGMRC
 + Etsuko Bannai (坂內悅子), Kyushu University and TGMRC
 + Huye Chen (陳虎葉), TGMRC-CTGU

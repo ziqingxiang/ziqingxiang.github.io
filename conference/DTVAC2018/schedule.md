@@ -6,7 +6,7 @@ permalink: /conference/DTVAC2018/schedule
 
 # Design Theory from the Viewpoint of Algebraic Combinatorics
 
-Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter.ctgu.edu.cn/), [China Three Gorges Universities (CTGU)](http://www.ctgu.edu.cn/)
+Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter.ctgu.edu.cn/), [China Three Gorges University (CTGU)](http://www.ctgu.edu.cn/)
 
 <hr />
 [Home](.) || **Schedule** || [Participants](participants)
@@ -20,10 +20,9 @@ All the talks are in Room L-2620 at Three Gorges Math Research Center at China T
 
 Time             | Speaker                                     | Title
 ---------------- | ---------------------------                 | --------------------
-09:00 - 09:50    | Eiichi Bannai (坂内英一)                    | Design theory from the viewpoint of algebraic combinatorics (an overview of design theory)
+09:00 - 09:50    | Eiichi Bannai (坂内英一)                    | Design theory from the viewpoint of algebraic combinatorics: an overview of design theory
 10:00 - 10:50    | Tatsuro Ito (伊藤達郎)                      | TBA
 11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)                       | TBA
----------------- | ---------------------------                 | --------------------
 14:00 - 14:50    | Yen-Chi Lin (林延輯)                        | On tight equiangular lines
 15:00 - 14:50    | Sho Suda (須田庄)                           | On tight $$4$$-designs in Hamming association schemes
 15:00 - 15:50    | Xiaodong Zhang (張曉東)                     | Some extremal spectral results with forbidden linear forests

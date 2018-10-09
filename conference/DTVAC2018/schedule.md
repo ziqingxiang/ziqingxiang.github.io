@@ -18,15 +18,15 @@ All the talks are in Room L-2620 at Three Gorges Math Research Center at China T
 
 ## Oct. 15
 
-Time             | Speaker                     | Title
----------------- | --------------------------- | --------------------
-09:00 - 09:50    | Eiichi Bannai (坂内英一)    | Design theory from the viewpoint of algebraic combinatorics (an overview of design theory)
-10:00 - 10:50    | Tatsuro Ito (伊藤達郎)      | TBA
-11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)       | TBA
----------------- | --------------------------- | --------------------
-14:00 - 14:50    | Yen-Chi Lin (林延輯)        | On tight equiangular lines
-15:00 - 14:50    | Sho Suda (須田庄)           | On tight $$4$$-designs in Hamming association schemes
-15:00 - 15:50    | Xiaodong Zhang (張曉東)     | Some extremal spectral results with forbidden linear forests
+Time             | Speaker                                     | Title
+---------------- | ---------------------------                 | --------------------
+09:00 - 09:50    | Eiichi Bannai (坂内英一)                    | Design theory from the viewpoint of algebraic combinatorics (an overview of design theory)
+10:00 - 10:50    | Tatsuro Ito (伊藤達郎)                      | TBA
+11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)                       | TBA
+---------------- | ---------------------------                 | --------------------
+14:00 - 14:50    | Yen-Chi Lin (林延輯)                        | On tight equiangular lines
+15:00 - 14:50    | Sho Suda (須田庄)                           | On tight $$4$$-designs in Hamming association schemes
+15:00 - 15:50    | Xiaodong Zhang (張曉東)                     | Some extremal spectral results with forbidden linear forests
 
 ## Oct. 16
 
@@ -48,7 +48,7 @@ Time             | Speaker                                                      
 09:00 - 09:50    | Shayne Waldron                                                                        | TBA
 10:00 - 10:50    | Shayne Waldron                                                                        | TBA
 11:00 - 11:50    | [Da Zhao (趙達)](http://zhaoda.org/)                                                  | On polynomial association schemes
-14:00 - 14:50    | Suogang Gao (高鎖剛)                                                                  |
+14:00 - 14:50    | Suogang Gao (高鎖剛)                                                                  | The Terwilliger algebras of distance-transitive graphs
 15:00 - 15:50    | [Sergey Goryainov](http://www.math.sjtu.edu.cn/faculty/postdocs/Goryainov/index.html) | TBA
 16:00 - 16:50    | [Jack Koolen](http://staff.ustc.edu.cn/~koolen/)                                      | TBA
 
@@ -65,17 +65,17 @@ Time             | Speaker                                     | Title
 
 ## Oct. 20
 
-Time             | Speaker                     | Title
----------------- | --------------------------- | --------------------
-Morning          |                             | Discussion
-14:00 - 14:50    | Yuehui Zhang (張躍輝)       | Directed partial orders on the field of generalized complex numbers
-15:00 - 15:50    | Feng-Yuan Liu (劉豐源)       | TBA
-16:00 - 16:50    | Haiyan Guan (關海豔)        | TBA
+Time             | Speaker                                     | Title
+---------------- | ---------------------------                 | --------------------
+Morning          |                                             | Discussion
+14:00 - 14:50    | Yuehui Zhang (張躍輝)                       | Directed partial orders on the field of generalized complex numbers
+15:00 - 15:50    | Feng-Yuan Liu (劉豐源)                      | TBA
+16:00 - 16:50    | Haiyan Guan (關海豔)                        | TBA
 
 ## Oct. 21
 
-Time             | Speaker                              | Title
----------------- | ---------------------------          | --------------------
-09:00 - 09:50    | [Yan Zhu (朱豔)](http://yanzhu.org/) | TBA
-10:00 - 10:50    | [Da Zhao (趙達)](http://zhaoda.org/) | Dig up the Weisfeiler-Lehman algorithm
-11:00 - 11:30    | Yuezhong Zhang (張躍忠)              | Some results of tight relative 2-designs on the folded n-cube.
+Time             | Speaker                                     | Title
+---------------- | ---------------------------                 | --------------------
+09:00 - 09:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)        | TBA
+10:00 - 10:50    | [Da Zhao (趙達)](http://zhaoda.org/)        | Dig up the Weisfeiler-Lehman algorithm
+11:00 - 11:30    | Yuezhong Zhang (張躍忠)                     | Some results of tight relative 2-designs on the folded n-cube.

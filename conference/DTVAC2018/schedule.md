@@ -8,9 +8,9 @@ permalink: /conference/DTVAC2018/schedule
 
 Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter.ctgu.edu.cn/), [China Three Gorges Universities (CTGU)](http://www.ctgu.edu.cn/)
 
----
+______
 [Home](.) || **Schedule** || [Participants](participants)
----
+______
 
 All the talks are in Room L-2620 at Three Gorges Math Research Center at China Three Gorges University in Yichang, Hubei, China. 
 
@@ -23,6 +23,7 @@ Time             | Speaker                     | Title
 09:00 - 09:50    | Eiichi Bannai (坂内英一)    | Design theory from the viewpoint of algebraic combinatorics (an overview of design theory)
 10:00 - 10:50    | Tatsuro Ito (伊藤達郎)      | TBA
 11:00 - 11:50    | Wei-Hsuan Yu                | TBA
+---------------- | --------------------------- | --------------------
 14:00 - 14:50    | Yen-Chi Lin                 | On tight equiangular lines
 15:00 - 14:50    | Sho Suda                    | On tight $$4$$-designs in Hamming association schemes
 15:00 - 15:50    | Xiaodong Zhang (張曉東)     | Some extremal spectral results with forbidden linear forests

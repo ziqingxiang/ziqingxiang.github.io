@@ -16,27 +16,27 @@ Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter
 
 + Eiichi Bannai (坂内英一), Kyushu University and TGMRC
 + Etsuko Bannai (坂內悅子), Kyushu University and TGMRC
-+ Huye Chen, TGMRC-CTGU
-+ Suogang Gao, Hebei Normal University
++ Huye Chen (陳虎葉), TGMRC-CTGU
++ Suogang Gao (高鎖剛), Hebei Normal University
 + Sergey Goryainov, Shanghai Jiao Tong University
 + Haiyan Guan (關海燕), TGMRC-CTGU
-+ Bo Hou, Hebei Normal University
-+ Lihang Hou, Hebei Normal University
++ Bo Hou (侯波), Hebei Normal University
++ Lihang Hou (侯利航), Hebei Normal University
 + Tatsuro Ito (伊藤達郎), Anhui University
 + Jack Koolen, University of Science and Technology of China
-+ Zengti Li, Langfang Normal University
-+ Yen-Chi Lin, National Taiwan Normal University
-+ Fen-Yuan Liu, National Tsing-Hua University
-+ Mikio Nakahara, Shanghai University
-+ Hao Shen, Shanghai Jiao Tong University
-+ Sho Suda, Aichi University of Education
++ Zengti Li (李增提), Langfang Normal University
++ Yen-Chi Lin (林延輯), National Taiwan Normal University
++ Fen-Yuan Liu (劉豐源), National Tsing-Hua University
++ Mikio Nakahara (中原幹夫), Shanghai University
++ Hao Shen (沈灝), Shanghai Jiao Tong University
++ Sho Suda (須田庄), Aichi University of Education
 + Shayne Waldron, University of Auckland
-+ Zili Xu, Beijing Academics
-+ Wei-Hsuan Yu, National Central University
-+ Landang Yuan, Hebei Normal University
++ Zili Xu (徐孜立), Beijing Academics
++ Wei-Hsuan Yu (俞韋亘), National Central University
++ Landang Yuan (袁蘭黨), Hebei Normal University
 + Xiaodong Zhang (張曉東), Shanghai Jiao Tong University
 + Yuehui Zhang (張躍輝), Shanghai Jiao Tong University
-+ Yuezhong Zhang, Hebei Normal University
++ Yuezhong Zhang (張躍忠), Hebei Normal University
 + Da Zhao (趙達), Shanghai Jiao Tong University,
 + Lin Zhu (朱林), University of Shanghai for Science and Technology
 + Yan Zhu (朱豔), Shanghai University

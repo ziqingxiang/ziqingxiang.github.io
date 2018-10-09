@@ -24,8 +24,8 @@ Time             | Speaker                                     | Title
 10:00 - 10:50    | Tatsuro Ito (伊藤達郎)                      | TBA
 11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)                       | TBA
 14:00 - 14:50    | Yen-Chi Lin (林延輯)                        | On tight equiangular lines
-15:00 - 14:50    | Sho Suda (須田庄)                           | On tight $$4$$-designs in Hamming association schemes
-15:00 - 15:50    | Xiaodong Zhang (張曉東)                     | Some extremal spectral results with forbidden linear forests
+15:00 - 15:50    | Sho Suda (須田庄)                           | On tight $$4$$-designs in Hamming association schemes
+16:00 - 16:50    | Xiaodong Zhang (張曉東)                     | Some extremal spectral results with forbidden linear forests
 
 ## Oct. 16
 
@@ -60,7 +60,7 @@ Time             | Speaker                                     | Title
 11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)                       | TBA
 14:00 - 14:50    | Eiichi Bannai (坂内英一)                    | Unitary $$t$$-designs and unitary $$t$$-groups
 15:00 - 15:50    | Etsuko Bannai (坂內悅子)                    | TBA
-16:00 - 16:50    | Shen Hao (沈灝)                             | TBA
+16:00 - 16:50    | Hao Shen (沈灝)                             | TBA
 
 ## Oct. 20
 

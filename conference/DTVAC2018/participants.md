@@ -18,7 +18,7 @@ Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter
 + Etsuko Bannai (坂內悅子), Kyushu University and TGMRC
 + Huye Chen (陳虎葉), TGMRC-CTGU
 + Suogang Gao (高鎖剛), Hebei Normal University
-+ Sergey Goryainov, Shanghai Jiao Tong University
++ [Sergey Goryainov](http://www.math.sjtu.edu.cn/faculty/postdocs/Goryainov/index.html), Shanghai Jiao Tong University
 + Haiyan Guan (關海燕), TGMRC-CTGU
 + Bo Hou (侯波), Hebei Normal University
 + Lihang Hou (侯利航), Hebei Normal University

@@ -49,7 +49,7 @@ Time             | Speaker                     | Title
 10:00 - 10:50    | Shayne Waldron              | TBA
 11:00 - 11:50    | [Da Zhao (趙達)](http://zhaoda.org/)              | On polynomial association schemes
 14:00 - 14:30    | Yuezhong Zhang (張躍忠)     | Some results of tight relative 2-designs on the folded n-cube.
-15:00 - 15:50    | Sergey Goryainov            | TBA
+15:00 - 15:50    | [Sergey Goryainov](http://www.math.sjtu.edu.cn/faculty/postdocs/Goryainov/index.html)            | TBA
 16:00 - 16:50    | Jack Koolen                 | TBA
 
 ## Oct. 19

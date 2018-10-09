@@ -28,7 +28,7 @@ Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter
 + Mikio Nakahara (中原幹夫), Shanghai University
 + Hao Shen (沈灝), Shanghai Jiao Tong University
 + Sho Suda (須田庄), Aichi University of Education
-+ Shayne Waldron, University of Auckland
++ [Shayne Waldron](https://www.math.auckland.ac.nz/~waldron/), University of Auckland
 + [Ziqing Xiang (向子卿)](http://ziqing.org/), University of Georgia
 + Zili Xu (徐孜立), Beijing Academics
 + Wei-Hsuan Yu (俞韋亘), National Central University

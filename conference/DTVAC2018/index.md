@@ -9,7 +9,9 @@ permalink: /conference/DTVAC2018/
 Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter.ctgu.edu.cn/), [China Three Gorges Universities (CTGU)](http://www.ctgu.edu.cn/)
 
 --------
+
 **Home** || [Schedule](schedule) || [Participants](participants)
+
 --------
 
 This will be a very informal workshop of relatively small size. We will discuss various "designs" from various viewpoints in connection with many branches of mathematics and sciences. We will emphasize the discussion on open problems, as well as surveys of researches in this direction. Everyone interested is welcome to participate.

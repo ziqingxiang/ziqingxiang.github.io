@@ -42,6 +42,7 @@ I am a fifth year graduate student at University of Georgia, USA. My advisor is 
 
 ## Contact
 * Email: <ziqing@uga.edu>
+* Email: <xiang@ziqing.org>
 * Office: Boyd 427K
 * Mobile Phone: +86-137-6682-2808
 * Mailing address: \\

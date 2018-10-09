@@ -69,7 +69,7 @@ Time             | Speaker                     | Title
 ---------------- | --------------------------- | --------------------
 Morning          |                             | Discussion
 14:00 - 14:50    | Yuehui Zhang (張躍輝)       | Directed partial orders on the field of generalized complex numbers
-15:00 - 15:50    | Fen-Yuan Liu (劉豐源)       | TBA
+15:00 - 15:50    | Feng-Yuan Liu (劉豐源)       | TBA
 16:00 - 16:50    | Haiyan Guan (關海豔)        | TBA
 
 ## Oct. 21

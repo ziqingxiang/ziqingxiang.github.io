@@ -24,7 +24,7 @@ Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter
 + [Jack Koolen](http://staff.ustc.edu.cn/~koolen/), University of Science and Technology of China
 + Zengti Li (李增提), Langfang Normal University
 + Yen-Chi Lin (林延輯), National Taiwan Normal University
-+ Fen-Yuan Liu (劉豐源), National Tsing-Hua University
++ Feng-Yuan Liu (劉豐源), National Tsing-Hua University
 + Mikio Nakahara (中原幹夫), Shanghai University
 + Hao Shen (沈灝), Shanghai Jiao Tong University
 + Sho Suda (須田庄), Aichi University of Education

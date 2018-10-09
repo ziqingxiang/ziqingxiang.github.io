@@ -24,7 +24,7 @@ This will be a very informal workshop of relatively small size. We will discuss 
 
 Room L-2620 at Three Gorges Math Research Center at China Three Gorges University in Yichang, Hubei, China. 
 
-### Schedule
+## Schedule
 
 Date                | Time             | Speaker           | Title
 ------------------- | ---------------- | ----------------- | --------------------

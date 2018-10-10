@@ -21,7 +21,7 @@ All the talks are in Room L-2620 at Three Gorges Math Research Center at China T
 Time             | Speaker                                     | Title
 ---------------- | ---------------------------                 | --------------------
 09:00 - 09:50    | Eiichi Bannai (坂内英一)                    | Design theory from the viewpoint of algebraic combinatorics: an overview of design theory
-10:00 - 10:50    | Tatsuro Ito (伊藤達郎)                      | TBA
+10:00 - 10:50    | Tatsuro Ito (伊藤達郎)                      | The Terwilliger algebra of a tree
 11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)                       | TBA
 14:00 - 14:50    | Yen-Chi Lin (林延輯)                        | On tight equiangular lines
 15:00 - 15:50    | Sho Suda (須田庄)                           | On tight $$4$$-designs in Hamming association schemes
@@ -77,4 +77,4 @@ Time             | Speaker                                     | Title
 ---------------- | ---------------------------                 | --------------------
 09:00 - 09:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)        | TBA
 10:00 - 10:50    | [Da Zhao (趙達)](http://zhaoda.org/)        | Dig up the Weisfeiler-Lehman algorithm
-11:00 - 11:30    | Yuezhong Zhang (張躍忠)                     | Some results of tight relative 2-designs on the folded n-cube.
+11:00 - 11:30    | Yuezhong Zhang (張躍忠)                     | Some results of tight relative 2-designs on the folded n-cube

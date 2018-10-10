@@ -31,8 +31,8 @@ Time             | Speaker                                     | Title
 
 Time             | Speaker                                     | Title
 ---------------- | ---------------------------                 | --------------------
-09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | TBA
-10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | TBA
+09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Explicit constructions of designs
+10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Existence of rational designs
 11:00 - 11:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)        | TBA
 14:00 - 14:50    | Huye Chen (陳虎葉)                          | On edge-transitive factorizations of complete uniform hypergraphs
 15:00 - 15:50    | Lin Zhu (朱林)                              | On cyclotomic association schemes
@@ -55,8 +55,8 @@ Time             | Speaker                                                      
 
 Time             | Speaker                                     | Title
 ---------------- | ---------------------------                 | --------------------
-09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | TBA
-10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | TBA
+09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Unitary designs and codes
+10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Diophantine equations related to tight designs
 11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)                       | TBA
 14:00 - 14:50    | Eiichi Bannai (坂内英一)                    | Unitary $$t$$-designs and unitary $$t$$-groups
 15:00 - 15:50    | Etsuko Bannai (坂內悅子)                    | TBA

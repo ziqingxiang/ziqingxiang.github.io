@@ -12,7 +12,7 @@ Oct. 14 - Oct. 21, [Three Gorges Math Research Center (TGMRC)](http://mathcenter
 [Home](.) || **Schedule** || [Participants](participants)
 <hr />
 
-All the talks are in Room L-2620 at Three Gorges Math Research Center at China Three Gorges University in Yichang, Hubei, China. 
+All talks are in Room L-2620 at Three Gorges Math Research Center at China Three Gorges University in Yichang, Hubei, China. 
 
 ## Oct. 14 (Arriving day)
 
@@ -33,7 +33,7 @@ Time             | Speaker                                     | Title
 ---------------- | ---------------------------                 | --------------------
 09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Explicit constructions of designs
 10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Existence of rational designs
-11:00 - 11:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)        | TBA
+11:00 - 11:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)        | Relative $$t$$-designs on Johnson association scheme
 14:00 - 14:50    | Huye Chen (陳虎葉)                          | On edge-transitive factorizations of complete uniform hypergraphs
 15:00 - 15:50    | Lin Zhu (朱林)                              | On cyclotomic association schemes
 16:00 - 16:50    | Mikio Nakahara (中原幹夫)                   | On relevance of quantum information and quantum computing in combinatorics research
@@ -75,6 +75,6 @@ Morning          |                                             | Discussion
 
 Time             | Speaker                                     | Title
 ---------------- | ---------------------------                 | --------------------
-09:00 - 09:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)        | TBA
+09:00 - 09:50    | [Yan Zhu (朱豔)](http://yanzhu.org/)        | Tight complex spherical $$t$$-designs
 10:00 - 10:50    | [Da Zhao (趙達)](http://zhaoda.org/)        | Dig up the Weisfeiler-Lehman algorithm
 11:00 - 11:30    | Yuezhong Zhang (張躍忠)                     | Some results of tight relative 2-designs on the folded n-cube

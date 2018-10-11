@@ -6,16 +6,16 @@ permalink: /talks
 
 ## Conference Talks
 
-* Oct. 19, 2018. TBA, \\
+* Oct. 19, 2018. Diophantine equations related to tight designs, \\
   [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
   Three Gorges Math Research Center.
-* Oct. 19, 2018. TBA, \\
+* Oct. 19, 2018. Unitary designs and unitary codes, \\
   [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
   Three Gorges Math Research Center.
-* Oct. 16, 2018. TBA, \\
+* Oct. 16, 2018. Existence of rational designs, \\
   [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
   Three Gorges Math Research Center.
-* Oct. 16, 2018. TBA, \\
+* Oct. 16, 2018. Explicit constructions of designs, \\
   [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
   Three Gorges Math Research Center.
 * Jun. 11, 2018. Support varieties for Hecke algebras, \\

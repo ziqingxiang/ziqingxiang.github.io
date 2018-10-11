@@ -55,7 +55,7 @@ Time             | Speaker                                                      
 
 Time             | Speaker                                     | Title
 ---------------- | ---------------------------                 | --------------------
-09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Unitary designs and codes
+09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Unitary designs and unitary codes
 10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Diophantine equations related to tight designs
 11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)                       | TBA
 14:00 - 14:50    | Eiichi Bannai (坂内英一)                    | Unitary $$t$$-designs and unitary $$t$$-groups

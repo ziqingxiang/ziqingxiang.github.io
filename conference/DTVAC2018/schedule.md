@@ -59,7 +59,7 @@ Time             | Speaker                                     | Title
 10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Diophantine equations related to tight designs
 11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)                       | New construction for real and complex spherical designs
 14:00 - 14:50    | Eiichi Bannai (坂内英一)                    | Unitary $$t$$-designs and unitary $$t$$-groups
-15:00 - 15:50    | Etsuko Bannai (坂內悅子)                    | TBA
+15:00 - 15:50    | Etsuko Bannai (坂內悅子)                    | On four-distance complex $$T$$-designs obtained by spherical embeddings of association schemes
 16:00 - 16:50    | Hao Shen (沈灝)                             | TBA
 
 ## Oct. 20

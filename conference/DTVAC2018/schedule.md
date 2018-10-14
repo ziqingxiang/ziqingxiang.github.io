@@ -1,6 +1,6 @@
 ---
 layout: conference
-title: Design Theory from the Viewpoint of Algebraic Combinatorics -- Three Gorges Mathematical Research Center
+title: Design Theory from the Viewpoint of Algebraic Combinatorics @ Three Gorges Mathematical Research Center
 permalink: /conference/DTVAC2018/schedule
 ---
 
@@ -14,7 +14,7 @@ Oct. 14 - Oct. 21, [Three Gorges Mathematical Research Center (TGMRC)](http://ma
 
 All talks are in Room L-2620 at Three Gorges Math Research Center at China Three Gorges University in Yichang, Hubei, China. 
 
-## Oct. 14 (Arriving day)
+## Oct. 14 (Arrival day)
 
 ## Oct. 15
 

@@ -9,7 +9,7 @@ permalink: /conference/DTVAC2018/participants
 Oct. 14 - Oct. 21, [Three Gorges Mathematical Research Center (TGMRC)](http://mathcenter.ctgu.edu.cn/), [China Three Gorges University (CTGU)](http://www.ctgu.edu.cn/)
 
 <hr />
-[Home](.) || [Schedule](schedule) || **Participants**
+[Home](.) || [Schedule](schedule) || **Participants** || [Map](map)
 <hr />
 
 + Eiichi Bannai (坂内英一), Kyushu University and TGMRC

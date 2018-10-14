@@ -69,7 +69,7 @@ Time             | Speaker                     | Title
 Morning          |                             | Discussion
 14:00 - 14:50    | Yuehui Zhang (張躍輝)       | Directed partial orders on the field of generalized complex numbers
 15:00 - 15:50    | Feng-Yuan Liu (劉豐源)      | New semidefinite programming bounds for spherical three-distance sets
-16:00 - 16:50    | Haiyan Guan (關海豔)        | TBA
+16:00 - 16:50    | Haiyan Guan (關海豔)        | Point-primitive linear spaces with number of points being a product of two primes
 
 ## Oct. 21
 

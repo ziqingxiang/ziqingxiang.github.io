@@ -1,6 +1,6 @@
 ---
 layout: conference
-title: Design Theory from the Viewpoint of Algebraic Combinatorics
+title: Design Theory from the Viewpoint of Algebraic Combinatorics -- Three Gorges Mathematical Research Center
 permalink: /conference/DTVAC2018/participants
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: conference
-title: Design Theory from the Viewpoint of Algebraic Combinatorics
+title: Design Theory from the Viewpoint of Algebraic Combinatorics -- Three Gorges Mathematical Research Center
 permalink: /conference/DTVAC2018/schedule
 ---
 
@@ -77,4 +77,4 @@ Time             | Speaker                              | Title
 ---------------- | ---------------------------          | --------------------
 09:00 - 09:50    | [Yan Zhu (朱豔)](http://yanzhu.org/) | Tight complex spherical $$t$$-designs
 10:00 - 10:50    | [Da Zhao (趙達)](http://zhaoda.org/) | Dig up the Weisfeiler-Lehman algorithm
-11:00 - 11:30    | Yuezhong Zhang (張躍忠)              | Some results of tight relative 2-designs on the folded n-cube
+11:00 - 11:30    | Yuezhong Zhang (張躍忠)              | Some results of tight relative $$2$$-designs on the folded $$n$$-cube

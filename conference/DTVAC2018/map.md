@@ -1,7 +1,7 @@
 ---
 layout: conference
 title: Design Theory from the Viewpoint of Algebraic Combinatorics
-permalink: /conference/DTVAC2018/participants
+permalink: /conference/DTVAC2018/map
 ---
 
 # Design Theory from the Viewpoint of Algebraic Combinatorics

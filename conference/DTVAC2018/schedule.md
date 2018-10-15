@@ -48,7 +48,7 @@ Time             | Speaker                                                      
 10:00 - 10:50    | Shayne Waldron                                                                        | The construction and classification of tight frames
 11:00 - 11:50    | [Da Zhao (趙達)](http://zhaoda.org/)                                                  | On polynomial association schemes
 14:00 - 14:50    | Suogang Gao (高鎖剛)                                                                  | The Terwilliger algebras of distance-transitive graphs
-15:00 - 15:50    | [Sergey Goryainov](http://www.math.sjtu.edu.cn/faculty/postdocs/Goryainov/index.html) | TBA
+15:00 - 15:50    | [Sergey Goryainov](http://www.math.sjtu.edu.cn/faculty/postdocs/Goryainov/index.html) | Divisible design graphs and dual Seidel switching
 16:00 - 16:50    | [Jack Koolen](http://staff.ustc.edu.cn/~koolen/)                                      | TBA
 
 ## Oct. 19

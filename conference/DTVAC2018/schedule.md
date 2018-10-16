@@ -44,8 +44,8 @@ Time             | Speaker                                     | Title
 
 Time             | Speaker                                                                               | Title
 ---------------- | ---------------------------                                                           | --------------------
-09:00 - 09:50    | Shayne Waldron                                                                        | Tight frames and spherical designs
-10:00 - 10:50    | Shayne Waldron                                                                        | The construction and classification of tight frames
+09:00 - 09:50    | [Shayne Waldron](https://www.math.auckland.ac.nz/~waldron/)                           | Tight frames and spherical designs
+10:00 - 10:50    | [Shayne Waldron](https://www.math.auckland.ac.nz/~waldron/)                           | The construction and classification of tight frames
 11:00 - 11:50    | [Da Zhao (趙達)](http://zhaoda.org/)                                                  | On polynomial association schemes
 14:00 - 14:50    | Suogang Gao (高鎖剛)                                                                  | The Terwilliger algebras of distance-transitive graphs
 15:00 - 15:50    | [Sergey Goryainov](http://www.math.sjtu.edu.cn/faculty/postdocs/Goryainov/index.html) | Divisible design graphs and dual Seidel switching

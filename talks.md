@@ -9,7 +9,7 @@ permalink: /talks
 * Oct. 19, 2018. Diophantine equations related to tight designs, \\
   [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
   Three Gorges Mathematical Research Center.
-* Oct. 19, 2018. Unitary designs and unitary codes, \\
+* Oct. 19, 2018. New lower bound on the sizes of designs, \\
   [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
   Three Gorges Mathematical Research Center.
 * Oct. 16, 2018. Existence of rational designs, \\

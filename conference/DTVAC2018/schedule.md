@@ -55,21 +55,21 @@ Time             | Speaker                                                      
 
 Time             | Speaker                                     | Title
 ---------------- | ---------------------------                 | --------------------
-09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Unitary designs and unitary codes
+09:00 - 09:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | New lower bound on the sizes of designs
 10:00 - 10:50    | [Ziqing Xiang (向子卿)](http://ziqing.org/) | Diophantine equations related to tight designs
 11:00 - 11:50    | Wei-Hsuan Yu (俞韋亘)                       | New construction for real and complex spherical designs
 14:00 - 14:50    | Eiichi Bannai (坂内英一)                    | Unitary $$t$$-designs and unitary $$t$$-groups
 15:00 - 15:50    | Etsuko Bannai (坂內悅子)                    | On four-distance complex $$T$$-designs obtained by spherical embeddings of association schemes
-16:00 - 16:50    | Hao Shen (沈灝)                             | TBA
+16:00 - 16:50    | Hao Shen (沈灝)                             | PBD-closed sets and the existence of combinatorial designs
 
 ## Oct. 20
 
 Time             | Speaker                     | Title
 ---------------- | --------------------------- | --------------------
-Morning          |                             | Discussion
-14:00 - 14:50    | Yuehui Zhang (張躍輝)       | Directed partial orders on the field of generalized complex numbers
-15:00 - 15:50    | Feng-Yuan Liu (劉豐源)      | New semidefinite programming bounds for spherical three-distance sets
-16:00 - 16:50    | Haiyan Guan (關海豔)        | Point-primitive linear spaces with number of points being a product of two primes
+09:00 - 09:50    | Yuehui Zhang (張躍輝)       | Directed partial orders on the field of generalized complex numbers
+10:00 - 10:50    | Feng-Yuan Liu (劉豐源)      | New semidefinite programming bounds for spherical three-distance sets
+11:00 - 11:50    | Haiyan Guan (關海豔)        | Point-primitive linear spaces with number of points being a product of two primes
+Afternoon        |                             | Discussion
 
 ## Oct. 21
 

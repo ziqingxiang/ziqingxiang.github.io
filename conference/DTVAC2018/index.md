@@ -21,3 +21,7 @@ This will be a very informal workshop of relatively small size. We will discuss 
 + Xuemei Deng (鄧雪梅), TGMRC-CTGU
 + Haiyan Guan (關海豔), TGMRC-CTGU
 + [Yan Zhu (朱豔)](http://yanzhu.org/), Shanghai University
+
+## Group Photo
+
+![](photo.jpg)

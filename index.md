@@ -34,7 +34,7 @@ I am on the job market this year. My research statement is available [here](data
 
 ## Papers in preparation
 * On $$q$$-Schur algebras corresponding to Hecke algebras of type B, joint work with [Chun-Ju Lai](https://faculty.franklin.uga.edu/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
-* New lower bound on the sizes of designs.
+* New lower bound on the sizes of designs. [(abstract)](data/New lower bound on the sizes of designs.pdf)
 * Hamiltonian thickness and spanning topological minors, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
 * Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)
 * Inferring phylogenies from incomplete metric information, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/), Zeying Xu, [Yinfeng Zhu](http://zhuyinfeng.org/).

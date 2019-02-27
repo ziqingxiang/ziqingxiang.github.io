@@ -29,11 +29,11 @@ I am on the job market this year. My research statement is available [here](data
 * Integral points on variable separated curves, joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/). Sep. 2018. [(PDF)](data/Integral points on variable seperated curves.pdf)
 
 ## Representation Theory
+* On $$q$$-Schur algebras corresponding to Hecke algebras of type B, joint work with [Chun-Ju Lai](https://faculty.franklin.uga.edu/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/). Feb. 2019. [(PDF)](data/On q-Schur algebras corresponding to Hecke algebras of type B.pdf)
 * Support varieties for Hecke algebras, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/), \\
-  Homology, Homotopy and Applications, accepted. [(PDF)](data/Support varieties for Hecke algebras.pdf)
+  Homology, Homotopy and Applications, 21(2), 59-82, 2019. [(PDF)](data/Support varieties for Hecke algebras.pdf)
 
 ## Papers in preparation
-* On $$q$$-Schur algebras corresponding to Hecke algebras of type B, joint work with [Chun-Ju Lai](https://faculty.franklin.uga.edu/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
 * New lower bound on the sizes of designs. [(abstract)](data/New lower bound on the sizes of designs.pdf)
 * Hamiltonian thickness and spanning topological minors, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
 * Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)

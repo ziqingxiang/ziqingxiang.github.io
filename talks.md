@@ -6,6 +6,9 @@ permalink: /talks
 
 ## Conference Talks
 
+* Mar. 16, 2019. Isomorphism theorem between $q$-Schur algebras of type B and type A, \\
+  [Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2261_program.html),
+  Auburn University.
 * Oct. 19, 2018. Diophantine equations related to tight designs, \\
   [Design Theory from the Viewpoint of Algebraic Combinatorics](http://ziqing.org/conference/DTVAC2018/),
   Three Gorges Mathematical Research Center.

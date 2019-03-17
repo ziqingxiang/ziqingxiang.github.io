@@ -30,7 +30,7 @@ I am on the job market this year. My research statement is available [here](data
 
 ## Representation Theory
 * On $$q$$-Schur algebras corresponding to Hecke algebras of type B, joint work with [Chun-Ju Lai](https://faculty.franklin.uga.edu/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/). Feb. 2019. [(PDF)](data/On q-Schur algebras corresponding to Hecke algebras of type B.pdf)
-* Support varieties for Hecke algebras, joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/), \\
+* [Support varieties for Hecke algebras](https://intlpress.com/site/pub/pages/journals/items/hha/content/vols/0021/0002/a005/index.html), joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/), \\
   Homology, Homotopy and Applications, 21(2), 59-82, 2019. [(PDF)](data/Support varieties for Hecke algebras.pdf)
 
 ## Papers in preparation

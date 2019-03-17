@@ -6,7 +6,7 @@ permalink: /talks
 
 ## Conference Talks
 
-* Mar. 15, 2019. Isomorphism theorem between $q$-Schur algebras of type B and type A, \\
+* Mar. 15, 2019. Isomorphism theorem between $$q$$-Schur algebras of type B and type A, \\
   [Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2261_program.html),
   Auburn University.
 * Oct. 19, 2018. Diophantine equations related to tight designs, \\

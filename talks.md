@@ -6,7 +6,7 @@ permalink: /talks
 
 ## Conference Talks
 
-* Mar. 16, 2019. Isomorphism theorem between $q$-Schur algebras of type B and type A, \\
+* Mar. 15, 2019. Isomorphism theorem between $q$-Schur algebras of type B and type A, \\
   [Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2261_program.html),
   Auburn University.
 * Oct. 19, 2018. Diophantine equations related to tight designs, \\
@@ -35,7 +35,7 @@ permalink: /talks
   Shanghai Jiao Tong University.
 * Oct. 27, 2014. [Tight block designs](data/20141027 - Tight Block Designs.pdf), \\
   [Sphere Packings, Lattices, and Designs](http://www.math.tugraz.at/ESI2014/workshop2.html),
-  Erwin Schrödinger International Institute.
+  Erwin Schrรถdinger International Institute.
 * Nov. 19, 2013. [Product of P-polynomial association schemes](data/20131119 - Product of P-polynomial association schemes.pdf), \\
   [Workshop on Algebraic Combinatorics](http://pip.hebcma.com/mjm/),
   Hebei Normal University.

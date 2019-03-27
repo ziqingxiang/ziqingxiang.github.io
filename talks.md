@@ -57,6 +57,10 @@ permalink: /talks
 
 ## Seminar talks
 
+* Apr. 1, 2019. On $$q$$-Schur algebras of classical type, \\
+  Algebra Seminar, University at Buffalo.
+* Mar. 18, 2019. Representation theory for Iwahori-Hecke algebras and Schur algebras of classical type, \\
+  Algebra Seminar, University of Georgia.
 * Jul. 27, 2018. Good subsets of the unit circle, \\
   [Graduate student summer conference](https://research.franklin.uga.edu/agant/content/mock-ams-conference-2018),
   University of Georgia.

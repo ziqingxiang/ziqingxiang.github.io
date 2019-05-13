@@ -6,6 +6,9 @@ permalink: /talks
 
 ## Conference Talks
 
+* May 13, 2019. Isomorphism theorem between $$q$$-Schur algebras of classical type, \\
+        [Southeastern Lie Theory Workshop XI](https://www.math.lsu.edu/~pramod/selie/11/),
+        Louisiana State University.
 * Mar. 15, 2019. Isomorphism theorem between $$q$$-Schur algebras of type B and type A, \\
   [Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2261_program.html),
   Auburn University.

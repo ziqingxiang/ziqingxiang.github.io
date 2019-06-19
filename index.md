@@ -13,9 +13,9 @@ I am on the job market this year. My research statement is available [here](data
 * Classification of feasible parameters by solving Diophantine equations, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/), Submitted, Aug. 2018. [(PDF)](data/Classification of feasible parameters by solving Diophantine equations.pdf) \\
   Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions. [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb) [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.pdf)
 * Explicit spherical designs. Submitted, Jul. 2018. [(PDF)](data/Explicit spherical designs.pdf)
-* Rational designs, joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and [Jiacheng Xia](http://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xxiaji&departmentId=013006),
+* [Rational designs](https://www.sciencedirect.com/science/article/pii/S0001870819302956), joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and [Jiacheng Xia](http://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xxiaji&departmentId=013006),
   [(PDF)](data/Rational designs.pdf) \\
-  To appear in Advances in Mathematics. [doi:10.1016/j.aim.2019.06.012](https://doi.org/10.1016/j.aim.2019.06.012)
+  Advances in Mathematics, 352, 541-571, 2019. [doi:10.1016/j.aim.2019.06.012](https://doi.org/10.1016/j.aim.2019.06.012)
 * [Nonexistence of nontrivial tight $$8$$-designs](https://link.springer.com/article/10.1007/s10801-017-0776-0),
   [(PDF)](data/Nonexistence of nontrivial tight 8-designs.pdf) \\
   Journal of Algebraic Combinatorics, 47(2), 301-318, 2018. [doi:10.1007/s10801-017-0776-0](http://dx.doi.org/10.1007/s10801-017-0776-0)

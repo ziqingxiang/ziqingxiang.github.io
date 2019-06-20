@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Ziqing Xiang
-I graduate from University of Georgia, USA. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
+I received my PhD from the University of Georgia, USA, in May 2019. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
 
 I am on the job market this year. My research statement is available [here](data/Research Statement.pdf).
 

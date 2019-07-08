@@ -6,9 +6,18 @@ permalink: /talks
 
 ## Conference Talks
 
+* Aug. 15, 2019. Root systems over $$F_2$$, \\
+  [Groups and Graphs, Designs and Dynamics](http://math.sjtu.edu.cn/conference/G2D2/),
+  Three Gorges Mathematical Research Center.
+* Jul. 11, 2019. On $$q$$-Schur algebras of classical type, \\
+  [International Conference on Representation Theory VIII](http://www.math.ksu.edu/~zlin/ICRT8),
+  Harbin Engineering University.
+* Jul. 1, 2019. New lower bound on the sizes of designs, \\
+  [The 2019 Workshop on Combinatorics and Quantum Information Theory](https://www.mikio-nakahara.com/workshop/CQIT2019/),
+  Shanghai University.
 * May 13, 2019. Isomorphism theorem between $$q$$-Schur algebras of classical type, \\
-        [Southeastern Lie Theory Workshop XI](https://www.math.lsu.edu/~pramod/selie/11/),
-        Louisiana State University.
+  [Southeastern Lie Theory Workshop XI](https://www.math.lsu.edu/~pramod/selie/11/),
+  Louisiana State University.
 * Mar. 15, 2019. Isomorphism theorem between $$q$$-Schur algebras of type B and type A, \\
   [Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2261_program.html),
   Auburn University.
@@ -60,6 +69,8 @@ permalink: /talks
 
 ## Seminar talks
 
+* Jun. 21, 2019. Support varieties for Iwahori-Hecke algebras , \\
+  Algebra Seminar, Henan University.
 * Apr. 1, 2019. On $$q$$-Schur algebras of classical type, \\
   Algebra Seminar, University at Buffalo.
 * Mar. 18, 2019. Representation theory for Iwahori-Hecke algebras and Schur algebras of classical type, \\

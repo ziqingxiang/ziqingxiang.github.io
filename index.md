@@ -31,6 +31,7 @@ I am on the job market this year. My research statement is available [here](data
 * Integral points on variable separated curves, joint work with [Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/). Sep. 2018. [(PDF)](data/Integral points on variable seperated curves.pdf)
 
 ## Representation Theory
+* Chapter 4 of "Introduction to Soergel bimodules", Springer.
 * On $$q$$-Schur algebras corresponding to Hecke algebras of type B, joint work with [Chun-Ju Lai](https://faculty.franklin.uga.edu/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/). Feb. 2019. [(PDF)](data/On q-Schur algebras corresponding to Hecke algebras of type B.pdf)
 * [Support varieties for Hecke algebras](https://intlpress.com/site/pub/pages/journals/items/hha/content/vols/0021/0002/a005/index.html), joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/), \\
   Homology, Homotopy and Applications, 21(2), 59-82, 2019. [(PDF)](data/Support varieties for Hecke algebras.pdf)
@@ -45,8 +46,8 @@ I am on the job market this year. My research statement is available [here](data
 * On $$s$$-distance sets in real hyperbolic space.
 
 ## Contact
-* Email: <ziqing@uga.edu>
 * Email: <xiang@ziqing.org>
+* Email: <ziqing@uga.edu> (this will expire soon)
 * Office: Boyd 427K
 * Mobile Phone: +86-137-6682-2808
 * Mailing address: \\

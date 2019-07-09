@@ -5,9 +5,9 @@ permalink: /
 ---
 
 # Ziqing Xiang
-I received my PhD from the University of Georgia, USA, in May 2019. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
+I received my Ph.D. from the University of Georgia, USA, in May 2019. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
 
-I am on the job market this year. My research statement is available [here](data/Research Statement.pdf).
+I will move to [Institute of Mathematics, Academia Sinica](https://www.math.sinica.edu.tw/) this Fall.
 
 ## Algebraic Combinatorics
 * Classification of feasible parameters by solving Diophantine equations, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/), Submitted, Aug. 2018. [(PDF)](data/Classification of feasible parameters by solving Diophantine equations.pdf) \\

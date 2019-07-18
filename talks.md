@@ -69,7 +69,7 @@ permalink: /talks
 
 ## Seminar talks
 
-* Jun. 21, 2019. Support varieties for Iwahori-Hecke algebras , \\
+* Jun. 21, 2019. Support varieties for Iwahori-Hecke algebras, \\
   Algebra Seminar, Henan University.
 * Apr. 1, 2019. On $$q$$-Schur algebras of classical type, \\
   Algebra Seminar, University at Buffalo.

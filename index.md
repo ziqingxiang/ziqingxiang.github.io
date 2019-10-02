@@ -50,7 +50,6 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 * Email: <xiang@ziqing.org>
 * Email: <ziqing@uga.edu> (this will expire soon)
 * Office: 624
-* Mobile Phone: +86-137-6682-2808
 * Mailing address: \\
 Institute of Mathematics \\
 Academia Sinica \\

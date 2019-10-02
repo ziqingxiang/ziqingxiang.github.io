@@ -7,7 +7,7 @@ permalink: /
 # Ziqing Xiang
 I received my Ph.D. from the University of Georgia, USA, in May 2019. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
 
-I will move to [Institute of Mathematics, Academia Sinica](https://www.math.sinica.edu.tw/) this Fall.
+I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.math.sinica.edu.tw/).
 
 ## Algebraic Combinatorics
 * Classification of feasible parameters by solving Diophantine equations, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/), Submitted, Aug. 2018. [(PDF)](data/Classification of feasible parameters by solving Diophantine equations.pdf) \\
@@ -46,15 +46,17 @@ I will move to [Institute of Mathematics, Academia Sinica](https://www.math.sini
 * On $$s$$-distance sets in real hyperbolic space.
 
 ## Contact
+* Email: <xiang@gate.sinica.edu.tw>
 * Email: <xiang@ziqing.org>
 * Email: <ziqing@uga.edu> (this will expire soon)
-* Office: Boyd 427K
+* Office: 624
 * Mobile Phone: +86-137-6682-2808
 * Mailing address: \\
-Department of Mathematics \\
-Boyd Graduate Studies Research Center \\
-University of Georgia \\
-Athens, GA, 30602, USA
+Institute of Mathematics \\
+Academia Sinica \\
+6F, Astronomy-Mathematics Building \\
+No. 1, Sec. 4, Roosevelt Road \\
+Taipei 10617, TAIWAN
 
 ## Research Interests
 * Combinatorics

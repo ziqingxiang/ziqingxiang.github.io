@@ -12,7 +12,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 ## Algebraic Combinatorics
 * Classification of feasible parameters by solving Diophantine equations, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/).
   [(PDF)](data/Classification of feasible parameters by solving Diophantine equations.pdf) \\
-  Submitted, Aug. 2018.
+  Submitted, Aug. 2018. \\
   Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions.
   [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb)
   [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.pdf)
@@ -44,7 +44,8 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
   Sep. 2018.
 
 ## Representation Theory
-* Chapter 4 of "Introduction to Soergel bimodules", Springer.
+* Chapter 4 of "Introduction to Soergel bimodules", \\
+  to appear in the RSME Springer Series.
 * On $$q$$-Schur algebras corresponding to Hecke algebras of type B, joint work with [Chun-Ju Lai](https://faculty.franklin.uga.edu/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
   [(PDF)](data/On q-Schur algebras corresponding to Hecke algebras of type B.pdf) \\
   Submitted. Feb. 2019.
@@ -53,7 +54,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
   Homology, Homotopy and Applications, 21(2), 59-82, 2019. 
 
 ## Papers in preparation
-* Majorana representation of complex vectors, Temperley-Lieb category, and two variable hypergeometric series, joint work with [Shaoshi Chen](http://www.mmrc.iss.ac.cn/~schen/), [Mikio Nakahara](https://www.mikio-nakahara.com/), [Yan Zhu](http://yanzhu.org/)).
+* Majorana representation of complex vectors, Temperley-Lieb category, and two variable hypergeometric series, joint work with [Shaoshi Chen](http://www.mmrc.iss.ac.cn/~schen/), [Mikio Nakahara](https://www.mikio-nakahara.com/), [Yan Zhu](http://yanzhu.org/).
 * New lower bound on the sizes of designs. [(abstract)](data/New lower bound on the sizes of designs.pdf)
 * Hamiltonian thickness and spanning topological minors, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
 * Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)
@@ -65,7 +66,6 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 ## Contact
 * Email: <xiang@gate.sinica.edu.tw>
 * Email: <xiang@ziqing.org>
-* Email: <ziqing@uga.edu> (this will expire soon)
 * Office: 624
 * Mailing address: \\
 Institute of Mathematics \\
@@ -75,19 +75,6 @@ No. 1, Sec. 4, Roosevelt Road \\
 Taipei 10617, Taiwan
 
 ## Research Interests
-* Combinatorics
-    + Association Schemes
-    + Design Theory
-    + Graph Theory
-    + Symbolic Dynamics
-    + Phylogenetic combinatorics
-* Number Theory
-    + Diophantine Equation
-    + Finiteness of integral points
-    + Variable separated curves.
-* Representation Theory
-    + Algebraic roups
-    + Cohomology
-    + Iwahori-Hecke Algebras
-    + Quantum Groups
-    + Schur Algebras
+* Combinatorics: Association Schemes, Design Theory, Graph Theory, Symbolic Dynamics, Phylogenetic combinatorics.
+* Number Theory: Diophantine Equation, Finiteness of integral points, Variable separated curves.
+* Representation Theory: Algebraic roups, Cohomology, Iwahori-Hecke Algebras, Quantum Groups, Schur Algebras.

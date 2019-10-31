@@ -24,6 +24,8 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
   Journal of Combinatorial Theory A, 119(7), 1523-1527, 2012. [doi:10.1016/j.jcta.2012.04.008](http://dx.doi.org/10.1016/j.jcta.2012.04.008)
 
 ## Graph Theory
+* The lit-only $\sigma$-game: some mathematics behind a puzzle for kids, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/Home.php), \\
+  to appear in The Mathematics Student, 88(3-4), 2019.
 * [Hamiltonian decomposition of prisms over cubic graphs](http://dmtcs.episciences.org/2079), joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303), \\
   Discrete Mathematics & Theoretical Computer Science, 16(2), 111-124, 2014.
 
@@ -37,12 +39,13 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
   Homology, Homotopy and Applications, 21(2), 59-82, 2019. [(PDF)](data/Support varieties for Hecke algebras.pdf)
 
 ## Papers in preparation
+* Majorana representation of complex vectors, Temperly-Lieb category, and two variable hypergeometric series, joint work with [Shaoshi Chen](http://www.mmrc.iss.ac.cn/~schen/), [Mikio Nakahara](https://www.mikio-nakahara.com/), [Yan Zhu](http://yanzhu.org/)).
 * New lower bound on the sizes of designs. [(abstract)](data/New lower bound on the sizes of designs.pdf)
 * Hamiltonian thickness and spanning topological minors, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
 * Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)
 * Inferring phylogenies from incomplete metric information, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/), Zeying Xu, [Yinfeng Zhu](http://zhuyinfeng.org/).
 * Positive matrices, primitive matrices, scrambling matrices and contractible matrices, joint work with [Xinmao Wang](http://math.ustc.edu.cn/new/teachersinfo1.php?id=69) and [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/).
-* Product of P-polynomial association schemes. [(abstract)](data/Product of P-polynomial association schemes.pdf)
+* Fiber products of P-polynomial association schemes. [(abstract)](data/Product of P-polynomial association schemes.pdf)
 * On $$s$$-distance sets in real hyperbolic space.
 
 ## Contact
@@ -55,7 +58,7 @@ Institute of Mathematics \\
 Academia Sinica \\
 6F, Astronomy-Mathematics Building \\
 No. 1, Sec. 4, Roosevelt Road \\
-Taipei 10617, TAIWAN
+Taipei 10617, Taiwan
 
 ## Research Interests
 * Combinatorics

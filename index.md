@@ -25,7 +25,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 
 ## Graph Theory
 * The lit-only $$\sigma$$-game: some mathematics behind a puzzle for kids, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/Home.php), \\
-  to appear in The Mathematics Student, 88(3-4), 2019.
+  to appear in The Mathematics Student, 88(3-4), 2019. [(PDF)](data/The lit-only sigma-game - Some Mathematics behind a puzzle for kids.pdf)
 * [Hamiltonian decomposition of prisms over cubic graphs](http://dmtcs.episciences.org/2079), joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303), \\
   Discrete Mathematics & Theoretical Computer Science, 16(2), 111-124, 2014.
 

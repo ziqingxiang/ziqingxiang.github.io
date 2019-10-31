@@ -39,7 +39,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
   Homology, Homotopy and Applications, 21(2), 59-82, 2019. [(PDF)](data/Support varieties for Hecke algebras.pdf)
 
 ## Papers in preparation
-* Majorana representation of complex vectors, Temperly-Lieb category, and two variable hypergeometric series, joint work with [Shaoshi Chen](http://www.mmrc.iss.ac.cn/~schen/), [Mikio Nakahara](https://www.mikio-nakahara.com/), [Yan Zhu](http://yanzhu.org/)).
+* Majorana representation of complex vectors, Temperley-Lieb category, and two variable hypergeometric series, joint work with [Shaoshi Chen](http://www.mmrc.iss.ac.cn/~schen/), [Mikio Nakahara](https://www.mikio-nakahara.com/), [Yan Zhu](http://yanzhu.org/)).
 * New lower bound on the sizes of designs. [(abstract)](data/New lower bound on the sizes of designs.pdf)
 * Hamiltonian thickness and spanning topological minors, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
 * Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)

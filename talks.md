@@ -69,6 +69,12 @@ permalink: /talks
 
 ## Seminar talks
 
+* Mar. 26, 2020. On $$q$$-Schur algebras of classical types, \\
+  Colloquium, National Cheng Kung University.
+* Mar. 18, 2020. An invitation to spherical designs, \\
+  [Taipei Postdoc Seminar](https://www.math.sinica.edu.tw/www/file_upload/conference/2016TPS/index.html), National Center for Theoretical Sciences.
+* Nov. 6, 2019. Support varieties for Iwahori-Hecke algebras, \\
+  [Seminar in Representation Theory](https://www.math.sinica.edu.tw/www/seminar/sem14_his_c.jsp?year=2019), Academia Sinica.
 * Jun. 21, 2019. Support varieties for Iwahori-Hecke algebras, \\
   Algebra Seminar, Henan University.
 * Apr. 1, 2019. On $$q$$-Schur algebras of classical type, \\

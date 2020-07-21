@@ -1,0 +1,644 @@
+Permalink: <http://ziqing.org/puzzle/tots.txt>
+
+High Score of Tower of The Sorcerer
+===================================
+
+Author: Ziqing Xiang
+xiang@ziqing.org
+http://ziqing.org/
+
+Date: July 21, 2020
+
+Introduction
+============
+
+This is a guide showing how to get 394 pts at 25th floor of the 2D version Tower of The Sorcerer (ToTS) v1.2.
+
+The detailed steps give 393 pts. If the bug at o'clock puzzle on 39th floor is used, the score is boosted by 1, and to 394 pts. The bug is quite easy to carry out:
+1. Open the door at 12 o'clock;
+2. Spend all yellow keys elsewhere;
+3. Bump the door at 3 o'clock.
+This sequence allows us to take the Warp Staff spending only 1 yellow key, instead of the usual requirement of 2 yellow keys.
+
+Notation
+========
+	YK: Yellow Key
+	YD: Yellow Door
+	BK: Blue Key
+	BD: Blue Door
+	RK: Red Key
+	RD: Red Door
+
+Detailed Steps
+==============
+
+--------------------------------
+Stat:	HP:		1000
+		ATK:	100
+		DEF:	100
+		Gold:	0
+		Keys:	0/0/0
+		Weapon:		Sacred Sword
+		Shield:		Sacred Shield
+--------------------------------
+
+01:		YK, YD
+		Green Slime, Red Slime, Green Slime
+03:		reset stat
+02:		talk to Thief x 2
+
+--------------------------------
+Checkpoint: Reset
+--------------------------------
+Stat:	HP:		400
+		ATK:	10
+		DEF:	10
+		Gold:	4
+		Keys:	0/0/0
+--------------------------------
+
+03:		Red Elixir x 3, YK x 5, BK
+		Green Slime, Red Slime, YD
+04:		YD, Green Slime, Red Slime, YD
+05:		Green Slime x 2, Red Slime, YD
+		secret wall, Iron Sword
+
+--------------------------------
+Checkpoint: Iron Sword
+--------------------------------
+Stat:	HP:		754
+		ATK:	20
+		DEF:	10
+		Gold:	14
+		Keys:	1/1/0
+--------------------------------
+
+05:		Red Slime, YD, Green Slime, YK x 4
+04:		YD, Priest, ATK, Blue Elixir
+		YD, Bat, YK x 2
+		Green Slime, YK
+05:		Bat, YK
+		YD, Red Slime
+		YD, Bat, YK x 2
+		Bat, YD
+06:		Red Slime, Priest, YK
+		YD, Red Slime, YK x 4
+		YD x 3, Red Slime
+07:		YD, Priest
+		YD, Bat, Blue Elixir, ATK
+		Skeleton B, YD
+08:		YD x 3, YK x 3
+09:		YD, Green Slime, Blue Elixir
+		secret wall, Iron Shield
+
+--------------------------------
+Checkpoint: Iron Shield
+--------------------------------
+Stat:	HP:		166
+		ATK:	22
+		DEF:	20
+		Gold:	65
+		Keys:	2/1/0
+--------------------------------
+
+09:		YD x 2, ATK, YK x 2
+		YD, Bat, DEF, YK
+06:		Red Slime, Blue Elixir x 2
+03:		Bat
+		YD, Priest, Blue Elixir, DEF, YK
+01:		YD, Bat, Priest, Bat, YD, Blue Elixir, ATK, DEF, YK
+08:		Priest, Bat
+		Skeleton C, Bat, YD, Green Slime, Bat, BD, ATK, DEF, YK x 2
+03:		YD, Skeleton C, Blue Elixir, ATK, YK
+05:		Skeleton B, Blue Elixir, DEF, YK, Orb of Wisdom
+
+--------------------------------
+Checkpoint: Orb of Wisdom
+--------------------------------
+Stat:	HP:		106
+		ATK:	26
+		DEF:	25
+		Gold:	124
+		Keys:	3/0/0
+--------------------------------
+
+04:		Priest, YD, Blue Elixir, YK, BK
+09:		Red Slime, Bat, YD
+		BD, Blue Elixir
+10:		YD, Skeleton C, DEF
+07:		Skeleton C, Blue Elixir, YK x 2
+		Skeleton B, Red Elixir, YK x 2
+10:		YD, Priest x 2, YD, Skeleton C, ATK
+
+--------------------------------
+Checkpoint: 27 / 26
+--------------------------------
+Stat:	HP:		210
+		ATK:	27
+		DEF:	26
+		Gold:	170
+		Keys:	3/0/0
+--------------------------------
+
+01:		YD, Bat, Red Elixir
+		YD, Blue Elixir
+08:		Priest
+		YD, Gate-Keeper C x 2, Blue Elixir, Red Elixir, YK x 2, RK
+07:		YD, Red Slime, Priest, Red Elixir
+10:		YD, Red Elixir
+		RD, Skeleton C x 6, Skeleton B x 2, Skeleton A
+		Fairy
+
+--------------------------------
+**SCORE POINT**: 10th Floor
+--------------------------------
+Stat:	HP:		6
+		ATK:	27
+		DEF:	26
+		Gold:	291
+		Keys:	0/0/0
+		Score:	29
+--------------------------------
+
+07:		Red Elixir x 3, ATK x 3, DEF x 3, YK x 3
+11:		Bat
+12:		Bat, Blue Elixir x 2
+		Altar: -20 Gold, 4 ATK
+		Altar: -40 Gold, 4 ATK
+		Altar: -80 Gold, 8 DEF
+
+--------------------------------
+Checkpoint: 2nd Altar - 80
+--------------------------------
+Stat:	HP:		788
+		ATK:	30
+		DEF:	29
+		Gold:	297
+		Keys:	3/0/0
+--------------------------------
+
+07:		YD, Bat, YK x 2
+06:		Priest, YK
+		Slime, YD, Bat, Blue Elixir
+		Merchant: -50 Gold, BK
+11:		YD, Big Slime, YK x 5
+12:		Bat
+14:		YD, Big Slime, YD, secret wall, Blue Elixir
+15:		YD, Bat, YD x 2, Big Bat, YD, Big Slime
+		talk to Thief
+16:		YK, BD, Blue Elixir, YK, YD
+		YD, Big Slime, secret wall, ATK, DEF, Blue Elixir, YK x 2
+17:		Big Bat, Blue Elixir
+		Gate-Keeper C x 4, Silver Sword
+15:		Merchant: -200 Gold, BK
+11:		Big Bat, BD, Red Elixir
+		Superion Priest x 2, Silver Shield
+
+--------------------------------
+Checkpoint: Silver Set
+--------------------------------
+Stat:	HP:		769
+		ATK:	60
+		DEF:	59
+		Gold:	85
+		Keys:	3/0/0
+--------------------------------
+
+09:		Skeleton B, YK
+		YD, Priest, YK, Blue Elixir
+08:		YD, Skeleton C, Skeleton B, YD, Blue Elixir, YK, BK
+07:		YD, Skeleton B
+		Merchant: -50 Gold, YK x 5
+04:		YD, Red Slime, Skeleton C, YD, Skeleton B, Red Elixir, YK
+03:		YD, Priest, Blue Elixir, YK
+01:		Skeleton C, YD, Skeleton B, YD, Orb of Flight, Blue Elixir x 2, YK x 2
+
+--------------------------------
+Checkpoint: Orb of Flight
+--------------------------------
+Stat:	HP:		1219
+		ATK:	60
+		DEF:	59
+		Gold:	105
+		Keys:	7/1/0
+--------------------------------
+
+15:		YD, Zombie, DEF
+12:		Zombie, YD, Big Slime, Blue Elixir, DEF, YK
+11:		Big Bat, Big Slime, Blue Elixir, YK
+		YD, Zombie, YD, ATK
+12:		YD, Superion Priest, Red Elixir
+		Zombie, Superion Priest, ATK, YK x 2
+16:		YD, Superion Priest, YD, BK
+17:		Superion Priest, Big Slime, BD, Big Bat
+18:		YD, Superion Priest, YK x 4, BK
+		BD
+19:		YD, Bat, YD, Big Bat
+		Big Slime, Zombie Knight, YK x 2
+20:		Superion Priest, Blue Elixir
+		YD, Bat, BD, ATK, DEF, YK
+
+--------------------------------
+Checkpoint: 20th Floor Stats
+--------------------------------
+Stat:	HP:		642
+		ATK:	66
+		DEF:	65
+		Gold:	413
+		Keys:	6/0/0
+--------------------------------
+
+12:		YD, Zombie, YK x 3, BK
+18:		secret wall, BD
+		Zombie, YD, Blue Elixir, ATK, YK
+17:		Big Bat, Blue Elixir
+16:		YD, Big Bat, YK x 3
+15:		YD, Big Slime, Big Bat, Superion, Priest, Big Bat, YK x 2, BK
+19:		YD, Bat, Big Bat, Blue Elixir, YK
+		Zombie, YD, Big Slime, YD, Big Bat, ATK, YK
+		BD, Rock, YK, secret wall, Cross, YK
+
+--------------------------------
+Checkpoint: Cross
+--------------------------------
+Stat:	HP:		267
+		ATK:	70
+		DEF:	65
+		Gold:	630
+		Keys:	12/0/0
+--------------------------------
+
+11:		YD, Big Bat, Red Elixir
+14:		Zombie, YD, Blue Elixir
+		YD, Superion Priest, BK
+		BD, Zombie Knight x 3, RK
+15:		Superion Potion, Red Elixir
+20:		RD, Vampire
+		Red Elixir x 3, ATK x 3, DEF x 3, YK x 3
+		Fairy
+
+--------------------------------
+**SCORE POINT**: 20th Floor
+--------------------------------
+Stat:	HP:		1227
+		ATK:	76
+		DEF:	71
+		Gold:	938
+		Keys:	0/0/0
+		Score:	71
+--------------------------------
+
+29:		reenter this floor
+C10:	Green Slime x 2, Red Slime x 2, Big Slime x 2
+31:		Zombie Knight x 2
+32:		Golden Knight (Attack First)
+		Ghost Solider
+		Altar: -140 Gold, 16 DEF
+		Altar: -220 Gold, 16 DEF
+		Altar: -320 Gold, 16 DEF
+		Altar: -440 Gold, 16 DEF
+
+--------------------------------
+Checkpoint: 3rd Altar - 440
+--------------------------------
+Stat:	HP:		200
+		ATK:	76
+		DEF:	135
+		Gold:	35
+		Keys:	12/0/0
+--------------------------------
+
+20:		Bat, Superion Priest, Rock x 2, Blue Elixir
+19:		Big Slime, Superion Priest, Zombie Knight x 3, Rock
+		Blue Elixir, BK
+18:		Big Slime x 5, Big Bat x 5, Superion Priest, Zombie, Zombie Knight x 2, Rock, YD x 3
+		Blue Elixir, DEF, YK x 3
+17:		Zombie x 3, Zombie Knight x 3, YD
+		Red Elixir, ATK, DEF, YK x 2
+32:		Altar: -580 Gold, 16 DEF
+
+--------------------------------
+Checkpoint: 3rd Altar - 580
+--------------------------------
+Stat:	HP:		900
+		ATK:	78
+		DEF:	155
+		Gold:	56
+		Keys:	13/1/0
+--------------------------------
+
+32:		YD, Slime Man x 2, YK
+33:		YD, Slime Man, Blue Elixir, YK
+		Zombie Knight, YD
+34:		Slime Man
+16:		Big Bat x 4, Superion Priest, Zombie x 2, Zombie Knight, Rock, Slime Man
+		secret wall, Magic Elixir
+15:		Bat, Big Bat, Big Slime, Zombie Knight
+14:		Big Slime x 3, Big Bat x 2, Superion Priest, Zombie, Zombie Knight x 2, Rock, YD x 2
+		Blue Elixir x 2, DEF, YK x 5
+12:		Big Slime, Big Bat x 2, Superion Priest x 2, Zombie, YD x 2
+11:		Bat, Big Bat
+07:		Red Slime
+32:		Altar: -740 Gold, 16 DEF
+
+--------------------------------
+Checkpoint: 3rd Altar - 740
+--------------------------------
+Stat:	HP:		1300
+		ATK:	78
+		DEF:	173
+		Gold:	0
+		Keys:	13/1/0
+--------------------------------
+
+33:		YD, Red Elixir
+		Ghost Solider x 2, Solider x 2
+32:		Solider, YD, ATK, DEF
+02:		BD, Gate-Keeper B x 2
+		talk to Merchant, 1000 Gold
+		talk to Thief
+		Red Elixir x 3, YK x 3
+32:		Altar: -920 Gold, 16 DEF
+
+--------------------------------
+Checkpoint: 3rd Altar - 920
+--------------------------------
+Stat:	HP:		1651
+		ATK:	122
+		DEF:	193
+		Gold:	485
+		Keys:	14/0/0
+--------------------------------
+
+31:		Ghost Solider, YD x 2, BK
+		Ghost Solider, YD, Ghost Solider
+		Solider, YD, ATK
+15:		Octopus Body x 8, Octopus Head, Magic Mattock
+12:		secret wall
+		Merchant: -800 Gold, RK
+34:		YD x 2, Ghost Solider, YD
+35:		secret walls
+36:		Slime Man, secret walls
+		Zombie Knight, secret walls
+		Knight, secret walls, YK
+		Zombie Knight, secret walls
+37:		Ghost Solider, Slime Man, Solider, Blue Elixir
+		use Magic Mattock, Blue Elixir x 4, YK x 3, Destructible Ball
+		BD
+38:		RD, Slime Man, YK
+		Slime, YD
+		YD, Ghost Solider, YD, Ghost Solider, Red Elixir, YK
+		Solider, YD, Zombie, Swordsman, YD, Gate-Keeper B x 2, Knight Shield
+
+--------------------------------
+Checkpoint: Knight Shield
+--------------------------------
+Stat:	HP:		2642
+		ATK:	126
+		DEF:	233
+		Gold:	1083
+		Keys:	8/0/0
+--------------------------------
+
+31:		YD, Ghost Solider, Knight, YD, DEF
+32:		YD, Ghost Solider, YD, YK x 2
+		Knight, YD, YK x 2, BK
+39:		YK, YD, Slime Man, Ghost Solider, ATK
+		YD, Knight
+		YD, Knight, DEF
+		Slime Man, YD, YK, Ghost Solider, BD, YD (12 o'clock), YD (3 o'clock), Warp Staff
+		(Note: one key can be saved here due to a bug)
+40:		use Warp Staff
+		Ghost Solider x 3, Solider x 3, Knight x 3, Golden Knight
+		walk to the square above RD
+		Ghost Solider (Attack First) x 3, Solider (Attack First) x 3, Knight (Attack First) x 3, Swordsman (Attack First) x 3, Golden Knight (Attack First)
+		ATK x 3, DEF x 3, YK x 3
+		Fairy
+
+--------------------------------
+**SCORE POINT**: 40th Floor
+--------------------------------
+Stat:	HP:		8
+		ATK:	142
+		DEF:	253
+		Gold:	2778
+		Keys:	0/0/0
+		Score:	76
+--------------------------------
+
+41:		walk by Magic Sergeant, HP halfed
+		YD x 3
+39:		Blue Elixir
+		Merchant: -2000 Gold, BK x 3
+40:		Red Elixir x 3
+		BD, Knight, Red Elixir, ATK, DEF, YK
+42:		YD, Slime Lord, YD, Slime Lord
+43:		BD, YD
+44:		use Warp Staff
+		Wings to Fly Up
+		use Warp Staff
+43:		use Wings to Fly Up
+44:		use Destructible Ball
+		Blue Elixir x 4, Sacred Shield
+
+--------------------------------
+Checkpoint: Sacred Shield
+--------------------------------
+Stat:	HP:		4192
+		ATK:	146
+		DEF:	357
+		Gold:	1323
+		Keys:	1/1/0
+--------------------------------
+
+42:		YD, YK x 10, BK x 2
+41:		BD, Slime Lord, YD, Blue Elixir, DEF, YK x 3
+46:		YD x 3
+47:		YD, Blue Elixir, ATK
+		YD, chase away Magician A
+		YD, Vampire Bat
+		YD, chase away Magician A
+		ATK, DEF, YK, BK
+41:		BD, Magician B, YD, Magician A, BK
+		Magician B, YD, secret wall, Magician A, BK
+4:			enter from D10
+		Wings to Fly Down
+01:		use Wings to Fly Down
+
+
+--------------------------------
+Checkpoint: Lucky Coin
+--------------------------------
+Stat:	HP:		4402
+		ATK:	156
+		DEF:	367
+		Gold:	1753
+		Keys:	4/4/0
+--------------------------------
+
+01:		Green Slime x 2
+04:		Green Slime x 2
+05:		Green Slime, Priest
+06:		Green Slime, Skeleton C x 3, Skeleton B
+08:		Green Slime
+09:		Green Slime, Priest, Skeleton C x 3, Skeleton B x 3, YD x 2, YK x 2
+10:	Skeleton B x 2, Skeleton C x 2
+
+31:		Slime Man x 2, Ghost Solider x 2, Solider, Swordsman, YD x 2
+		Blue Elixir x 2, Red Elixir, YK x 8
+32:		Gate-Keeper x 2, Red Elixir, YK x 4, BK
+34:		Solider, Swordsman, Blue Elixir, Red Elixir
+36:		Slime Man, Solider x 2, Swordsman x 3, Knight x 2, Red Elixir
+37:		Solider, Swordsman, Knight x 2, Red Elixir
+38:		Ghost Solider x 2, Solider x 2, Swordsman, Knight x 2, YD
+		Blue Elixir, DEF, YK x 3
+39:		Ghost Solider, Solider, Swordsman
+40:		Solider, Swordsman, Blue Elixir
+40:		enter from E1
+		Slime Man x 2
+
+--------------------------------
+Checkpoint: Clean Up
+--------------------------------
+Stat:	HP:		9402
+		ATK:	156
+		DEF:	371
+		Gold:	5611
+		Keys:	16/5/0
+--------------------------------
+
+41:		enter from E2
+		Slime Lord, YD, Blue Elixir, ATK, YK x 3
+46:		YD, BD, Red Slime, Skeleton C, Big Bat, Zombie, Solider, Swordsman, Knight, Slime Lord, Magician B, Magic Key
+34:		use Magic Key
+		Green Slime, Red Slime, Bat, Big Slime, Slime Man, Ghost Solider, Solider x 2, Knight x 2, Swordsman
+		Blue Elixir x 2, ATK, DEF, YK x 9, RK
+46:		Slime Lord, Magician B
+		Vampire Bat, YD, Magician B, Blue Elixir, ATK
+		Magician A, YD
+		Altar: -1120 Gold, 20 DEF
+		Altar: -1340 Gold, 20 DEF
+		Altar: -1580 Gold, 20 DEF
+		Altar: -1840 Gold, 20 DEF
+
+--------------------------------
+Checkpoint: 4th Altar - 1840
+--------------------------------
+Stat:	HP:		10252
+		ATK:	170
+		DEF:	455
+		Gold:	1845
+		Keys:	24/4/1
+--------------------------------
+
+47:		Slime Lord x 2, Vampire Bat, Magician B x 3, Magician A x 3, YD x 3
+		DEF, YK x 3
+48:		Slime Lord, Vampire Bat x 2, Magician B x 3, Magician A, Magic Sergeant x 4, YD x 2, BD
+		hidden Magic Sergeant, Holy Sword, Dark Knight
+		Blue Elixir, Red Elixir x 2, ATK, DEF		
+49:		RD, Magician A x 2, Dark Knight x 2
+47:		Merchant: -4000 Gold, Super Mattock
+46:		Altar: -2120 Gold, 20 DEF
+
+--------------------------------
+Checkpoint: 4th Altar - 2120
+--------------------------------
+Stat:	HP:		12502
+		ATK:	225
+		DEF:	485
+		Gold:	25
+		Keys:	22/3/0
+--------------------------------
+
+45:		Slime Lord, Vampire Bat, Magician B x 2, Magician A x 3, Magic Sergeant x 2, Dark Knight x 4, YD x 6
+		Red Elixir, YK, ATK x 2, DEF x 2
+43:		Slime Lord x 3, Vampire Bat x 2, Magician B, Magician A, Magic Sergeant, Dark Knight x 3, YD x 5
+		Blue Elixir, Red Elixir x 4, YK, BK, Holy Shield
+42:		Vampire Bat x 2, Magician B x 2, Magician A, Magic Sergeant x 2, Dark Knight, YD
+		Red Elixir, DEF, YK x 4, RK
+41:		Vampire Bat x 4, Magic Sergeant x 2
+37:		use Super Mattock
+		Blue Elixir x 5, Red Elixir x 2, ATK x 4, DEF x 4, YK x 6, BK x 2, RK
+46:		Altar: -2420 Gold, 20 DEF
+		Altar: -2740 Gold, 20 DEF
+
+--------------------------------
+Checkpoint: 4th Altar - 2740
+--------------------------------
+Stat:	HP:		21352
+		ATK:	251
+		DEF:	606
+		Gold:	1105
+		Keys:	22/6/2
+--------------------------------
+
+35:		Dragon, Red Elixir x 3, Snow Crystal
+13:		YD, use Snow Crystal, Sacred Sword
+49:		Magic Sergeant x 4 (the orthogonal ones)
+		Magic Sergeant x 4 (the diagonal ones)
+		Zeno
+		Red Elixir x 3, ATK x 3, DEF x 3, RK, Dragon Slayer
+		Fairy
+
+--------------------------------
+**SCORE POINT**: 49th Floor
+--------------------------------
+Stat:	HP:		26752
+		ATK:	366
+		DEF:	621
+		Gold:	5305
+		Keys:	21/6/3
+		Score:	307
+--------------------------------
+
+46:		Altar: -3080 Gold, 20 DEF
+45:		Merchant: -1000 Gold, 2000 HP
+38:		Merchant: -200 Gold, YK x 3
+31:		Merchant: -1000 Gold, YK x 4, BK
+
+--------------------------------
+Checkpoint: Ready for Final Boost
+--------------------------------
+Stat:	HP:		28752
+		ATK:	366
+		DEF:	641
+		Gold:	25
+		Keys:	28/7/3
+--------------------------------
+
+02:		talk to Old Man
+		use Magic Elixir
+25:		RD, Magic Master
+		RK x 5
+		Fairy
+
+--------------------------------
+**SCORE POINT**: 25th Floor
+--------------------------------
+Stat:	HP:		35812
+		ATK:	376
+		DEF:	660
+		Gold:	2025
+		Keys:	28/7/7
+		Score:	393
+--------------------------------
+
+12:		secret wall
+		Merchant: -1000 Gold, YK
+		Merchant: -1000 Gold, YK
+
+--------------------------------
+Checkpoint: Buy two YKs
+--------------------------------
+Stat:	HP:		35812
+		ATK:	376
+		DEF:	660
+		Gold:	25
+		Keys:	30/7/7
+		Score:	(395???)
+--------------------------------
+
+26:		RD x 3, use Snow Crystal
+		talk to Doll
+24:		RD
+50:		end

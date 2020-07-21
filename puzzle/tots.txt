@@ -284,7 +284,7 @@ Checkpoint: Cross
 --------------------------------
 
 29:		reenter this floor
-C10:	Green Slime x 2, Red Slime x 2, Big Slime x 2
+30:		Green Slime x 2, Red Slime x 2, Big Slime x 2
 31:		Zombie Knight x 2
 32:		Golden Knight (Attack First)
 		Ghost Solider

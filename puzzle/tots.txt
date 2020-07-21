@@ -35,7 +35,7 @@ Detailed Steps
 --------------------------------
 Checkpoint: Start
 --------------------------------
-		HP:		1000
+		HP: 	1000
 		ATK:	100
 		DEF:	100
 		Gold:	0
@@ -50,7 +50,7 @@ Checkpoint: Start
 --------------------------------
 Checkpoint: Reset
 --------------------------------
-		HP:		400
+		HP: 	400
 		ATK:	10
 		DEF:	10
 		Gold:	4
@@ -66,7 +66,7 @@ Checkpoint: Reset
 --------------------------------
 Checkpoint: Iron Sword
 --------------------------------
-		HP:		754
+		HP: 	754
 		ATK:	20
 		DEF:	10
 		Gold:	14
@@ -94,7 +94,7 @@ Checkpoint: Iron Sword
 --------------------------------
 Checkpoint: Iron Shield
 --------------------------------
-		HP:		166
+		HP: 	166
 		ATK:	22
 		DEF:	20
 		Gold:	65
@@ -115,7 +115,7 @@ Checkpoint: Iron Shield
 --------------------------------
 Checkpoint: Orb of Wisdom
 --------------------------------
-		HP:		106
+		HP: 	106
 		ATK:	26
 		DEF:	25
 		Gold:	124
@@ -133,7 +133,7 @@ Checkpoint: Orb of Wisdom
 --------------------------------
 Checkpoint: 27 / 26
 --------------------------------
-		HP:		210
+		HP: 	210
 		ATK:	27
 		DEF:	26
 		Gold:	170
@@ -152,7 +152,7 @@ Checkpoint: 27 / 26
 --------------------------------
 **SCORE POINT**: 10th Floor
 --------------------------------
-		HP:		6
+		HP: 	6
 		ATK:	27
 		DEF:	26
 		Gold:	291
@@ -170,7 +170,7 @@ Checkpoint: 27 / 26
 --------------------------------
 Checkpoint: 2nd Altar - 80
 --------------------------------
-		HP:		788
+		HP: 	788
 		ATK:	30
 		DEF:	29
 		Gold:	297
@@ -197,7 +197,7 @@ Checkpoint: 2nd Altar - 80
 --------------------------------
 Checkpoint: Silver Set
 --------------------------------
-		HP:		769
+		HP: 	769
 		ATK:	60
 		DEF:	59
 		Gold:	85
@@ -216,7 +216,7 @@ Checkpoint: Silver Set
 --------------------------------
 Checkpoint: Orb of Flight
 --------------------------------
-		HP:		1219
+		HP: 	1219
 		ATK:	60
 		DEF:	59
 		Gold:	105
@@ -241,7 +241,7 @@ Checkpoint: Orb of Flight
 --------------------------------
 Checkpoint: 20th Floor Stats
 --------------------------------
-		HP:		642
+		HP: 	642
 		ATK:	66
 		DEF:	65
 		Gold:	413
@@ -261,7 +261,7 @@ Checkpoint: 20th Floor Stats
 --------------------------------
 Checkpoint: Cross
 --------------------------------
-		HP:		267
+		HP: 	267
 		ATK:	70
 		DEF:	65
 		Gold:	630
@@ -280,7 +280,7 @@ Checkpoint: Cross
 --------------------------------
 **SCORE POINT**: 20th Floor
 --------------------------------
-		HP:		1227
+		HP: 	1227
 		ATK:	76
 		DEF:	71
 		Gold:	938
@@ -301,7 +301,7 @@ C10:	Green Slime x 2, Red Slime x 2, Big Slime x 2
 --------------------------------
 Checkpoint: 3rd Altar - 440
 --------------------------------
-		HP:		200
+		HP: 	200
 		ATK:	76
 		DEF:	135
 		Gold:	35
@@ -320,7 +320,7 @@ Checkpoint: 3rd Altar - 440
 --------------------------------
 Checkpoint: 3rd Altar - 580
 --------------------------------
-		HP:		900
+		HP: 	900
 		ATK:	78
 		DEF:	155
 		Gold:	56
@@ -344,7 +344,7 @@ Checkpoint: 3rd Altar - 580
 --------------------------------
 Checkpoint: 3rd Altar - 740
 --------------------------------
-		HP:		1300
+		HP: 	1300
 		ATK:	78
 		DEF:	173
 		Gold:	0
@@ -363,7 +363,7 @@ Checkpoint: 3rd Altar - 740
 --------------------------------
 Checkpoint: 3rd Altar - 920
 --------------------------------
-		HP:		1651
+		HP: 	1651
 		ATK:	122
 		DEF:	193
 		Gold:	485
@@ -393,7 +393,7 @@ Checkpoint: 3rd Altar - 920
 --------------------------------
 Checkpoint: Knight Shield
 --------------------------------
-		HP:		2642
+		HP: 	2642
 		ATK:	126
 		DEF:	233
 		Gold:	1083
@@ -418,7 +418,7 @@ Checkpoint: Knight Shield
 --------------------------------
 **SCORE POINT**: 40th Floor
 --------------------------------
-		HP:		8
+		HP: 	8
 		ATK:	142
 		DEF:	253
 		Gold:	2778
@@ -444,7 +444,7 @@ Checkpoint: Knight Shield
 --------------------------------
 Checkpoint: Sacred Shield
 --------------------------------
-		HP:		4192
+		HP: 	4192
 		ATK:	146
 		DEF:	357
 		Gold:	1323
@@ -469,7 +469,7 @@ Checkpoint: Sacred Shield
 --------------------------------
 Checkpoint: Lucky Coin
 --------------------------------
-		HP:		4402
+		HP: 	4402
 		ATK:	156
 		DEF:	367
 		Gold:	1753
@@ -500,7 +500,7 @@ Checkpoint: Lucky Coin
 --------------------------------
 Checkpoint: Clean Up
 --------------------------------
-		HP:		9402
+		HP: 	9402
 		ATK:	156
 		DEF:	371
 		Gold:	5611
@@ -524,7 +524,7 @@ Checkpoint: Clean Up
 --------------------------------
 Checkpoint: 4th Altar - 1840
 --------------------------------
-		HP:		10252
+		HP: 	10252
 		ATK:	170
 		DEF:	455
 		Gold:	1845
@@ -543,7 +543,7 @@ Checkpoint: 4th Altar - 1840
 --------------------------------
 Checkpoint: 4th Altar - 2120
 --------------------------------
-		HP:		12502
+		HP: 	12502
 		ATK:	225
 		DEF:	485
 		Gold:	25
@@ -565,7 +565,7 @@ Checkpoint: 4th Altar - 2120
 --------------------------------
 Checkpoint: 4th Altar - 2740
 --------------------------------
-		HP:		21352
+		HP: 	21352
 		ATK:	251
 		DEF:	606
 		Gold:	1105
@@ -583,7 +583,7 @@ Checkpoint: 4th Altar - 2740
 --------------------------------
 **SCORE POINT**: 49th Floor
 --------------------------------
-		HP:		26752
+		HP: 	26752
 		ATK:	366
 		DEF:	621
 		Gold:	5305
@@ -599,7 +599,7 @@ Checkpoint: 4th Altar - 2740
 --------------------------------
 Checkpoint: Ready for Final Boost
 --------------------------------
-		HP:		28752
+		HP: 	28752
 		ATK:	366
 		DEF:	641
 		Gold:	25
@@ -615,7 +615,7 @@ Checkpoint: Ready for Final Boost
 --------------------------------
 **SCORE POINT**: 25th Floor
 --------------------------------
-		HP:		35812
+		HP: 	35812
 		ATK:	376
 		DEF:	660
 		Gold:	2025
@@ -630,7 +630,7 @@ Checkpoint: Ready for Final Boost
 --------------------------------
 Checkpoint: Buy two YKs
 --------------------------------
-		HP:		35812
+		HP: 	35812
 		ATK:	376
 		DEF:	660
 		Gold:	25

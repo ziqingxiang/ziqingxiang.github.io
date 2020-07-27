@@ -155,7 +155,7 @@ Checkpoint: 10th Floor stats
 		Score:	29
 --------------------------------
 
-07:		Blue Elixir x 3, ATK x 3, DEF x 3, YK x 3
+10:		Blue Elixir x 3, ATK x 3, DEF x 3, YK x 3
 11:		Bat
 12:		Bat, Red Elixir x 2
 		Altar: -20 Gold, 4 ATK
@@ -166,9 +166,9 @@ Checkpoint: 10th Floor stats
 Checkpoint: 2nd Altar - 80
 --------------------------------
 		HP: 	788
-		ATK:	30
-		DEF:	29
-		Gold:	297
+		ATK:	38
+		DEF:	37
+		Gold:	157
 		Keys:	3/0/0
 --------------------------------
 
@@ -223,7 +223,7 @@ Checkpoint: Orb of Flight
 11:		Big Bat, Big Slime, Red Elixir, YK
 		YD, Zombie, YD, ATK
 12:		YD, Superion Priest, Blue Elixir
-		Zombie, Superion Priest, ATK, YK x 2
+		Zombie, YD, Superion Priest, ATK, YK x 2
 16:		YD, Superion Priest, YD, BK
 17:		Superion Priest, Big Slime, BD, Big Bat
 18:		YD, Superion Priest, YK x 4, BK
@@ -245,10 +245,10 @@ Checkpoint: 20th Floor Stats
 
 12:		YD, Zombie, YK x 3, BK
 18:		secret wall, BD
-		Zombie, YD, Red Elixir, ATK, YK
+		Zombie, YD, Superion Priest, Red Elixir, ATK, YK
 17:		Big Bat, Red Elixir
 16:		YD, Big Bat, YK x 3
-15:		YD, Big Slime, Big Bat, Superion, Priest, Big Bat, YK x 2, BK
+15:		YD, Big Slime, Big Bat, Superion Priest, Big Bat, YK x 2, BK
 19:		YD, Bat, Big Bat, Red Elixir, YK
 		Zombie, YD, Big Slime, YD, Big Bat, ATK, YK
 		BD, Rock, YK, secret wall, Cross, YK
@@ -267,7 +267,7 @@ Checkpoint: Cross
 14:		Zombie, YD, Red Elixir
 		YD, Superion Priest, BK
 		BD, Zombie Knight x 3, RK
-15:		Superion Potion, Blue Elixir
+15:		Superion Priest, Blue Elixir
 20:		RD, Vampire
 		Blue Elixir x 3, ATK x 3, DEF x 3, YK x 3
 		Fairy
@@ -287,7 +287,7 @@ Checkpoint: Cross
 30:		Green Slime x 2, Red Slime x 2, Big Slime x 2
 31:		Zombie Knight x 2
 32:		Golden Knight (Attack First)
-		Ghost Solider
+		Ghost Soldier
 		Altar: -140 Gold, 16 DEF
 		Altar: -220 Gold, 16 DEF
 		Altar: -320 Gold, 16 DEF
@@ -347,8 +347,8 @@ Checkpoint: 3rd Altar - 740
 --------------------------------
 
 33:		YD, Blue Elixir
-		Ghost Solider x 2, Solider x 2
-32:		Solider, YD, ATK, DEF
+		Ghost Soldier x 2, Soldier x 2
+32:		Soldier, YD, ATK, DEF
 02:		BD, Gate-Keeper B x 2
 		talk to Merchant, 1000 Gold
 		talk to Thief
@@ -366,25 +366,25 @@ Checkpoint: 3rd Altar - 920
 		Keys:	11/0/0
 --------------------------------
 
-31:		Ghost Solider, YD x 2, BK
-		Ghost Solider, YD, Ghost Solider
-		Solider, YD, ATK
+31:		Ghost Soldier, YD x 2, BK
+		Ghost Soldier, YD, Ghost Soldier
+		Soldier, YD, ATK
 15:		Giant Octopus Body x 8, Giant Octopus Head, Magic Mattock
 12:		secret wall
 		Merchant: -800 Gold, RK
-34:		YD x 2, Ghost Solider, YD
+34:		YD x 2, Ghost Soldier, YD
 35:		secret walls
 36:		Slime Man, secret walls
 		Zombie Knight, secret walls
 		Knight, secret walls, YK
 		Zombie Knight, secret walls
-37:		Ghost Solider, Slime Man, Solider, Red Elixir
+37:		Ghost Soldier, Slime Man, Soldier, Red Elixir
 		use Magic Mattock, Red Elixir x 4, YK x 3, Destructible Ball
 		BD
 38:		RD, Slime Man, YK
 		Slime, YD
-		YD, Ghost Solider, YD, Ghost Solider, Blue Elixir, YK
-		Solider, YD, Zombie, Swordsman, YD, Gate-Keeper B x 2, Knight Shield
+		YD, Ghost Soldier, YD, Ghost Soldier, Blue Elixir, YK
+		Soldier, YD, Zombie, Swordsman, YD, Gate-Keeper B x 2, Knight Shield
 
 
 --------------------------------
@@ -397,20 +397,20 @@ Checkpoint: Knight Shield
 		Keys:	5/0/0
 --------------------------------
 
-31:		YD, Ghost Solider, Knight, YD, DEF
-32:		YD, Ghost Solider
+31:		YD, Ghost Soldier, Knight, YD, DEF
+32:		YD, Ghost Soldier
 		Knight, YD, YK x 2, BK
-39:		YK, YD, Slime Man, Ghost Solider, ATK
+39:		YK, YD, Slime Man, Ghost Soldier, ATK
 		YD, Knight
 		YD, Knight, DEF
 		Slime Man, YD, YK,
-		Ghost Solider, BD, YD (3 o'clock), bump YD (3 o'clock), Warp Staff
+		Ghost Soldier, BD, YD (3 o'clock), bump YD (3 o'clock), Warp Staff
 02:		YK x 3
 32:		YD, YK x 2
 40:		use Warp Staff
-		Ghost Solider x 3, Solider x 3, Knight x 3, Golden Knight
+		Ghost Soldier x 3, Soldier x 3, Knight x 3, Golden Knight
 		walk to the square above RD
-		Ghost Solider (Attack First) x 3, Solider (Attack First) x 3, Knight (Attack First) x 3, Swordsman (Attack First) x 3, Golden Knight (Attack First)
+		Ghost Soldier (Attack First) x 3, Soldier (Attack First) x 3, Knight (Attack First) x 3, Swordsman (Attack First) x 3, Golden Knight (Attack First)
 		ATK x 3, DEF x 3, YK x 3
 		Fairy
 
@@ -483,16 +483,16 @@ Checkpoint: Lucky Coin
 09:		Green Slime, Priest, Skeleton C x 3, Skeleton B x 3, YD x 2, YK x 2
 10:		Skeleton B x 2, Skeleton C x 2
 
-31:		Slime Man x 2, Ghost Solider x 2, Solider, Swordsman, YD x 2
+31:		Slime Man x 2, Ghost Soldier x 2, Soldier, Swordsman, YD x 2
 		Red Elixir x 2, Blue Elixir, YK x 8
 32:		Gate-Keeper x 2, Blue Elixir, YK x 4, BK
-34:		Solider, Swordsman, Red Elixir, Blue Elixir
-36:		Slime Man, Solider x 2, Swordsman x 3, Knight x 2, Blue Elixir
-37:		Solider, Swordsman, Knight x 2, Blue Elixir
-38:		Ghost Solider x 2, Solider x 2, Swordsman, Knight x 2, YD
+34:		Soldier, Swordsman, Red Elixir, Blue Elixir
+36:		Slime Man, Soldier x 2, Swordsman x 3, Knight x 2, Blue Elixir
+37:		Soldier, Swordsman, Knight x 2, Blue Elixir
+38:		Ghost Soldier x 2, Soldier x 2, Swordsman, Knight x 2, YD
 		Red Elixir, DEF, YK x 3
-39:		Ghost Solider, Solider, Swordsman
-40:		Solider, Swordsman, Red Elixir
+39:		Ghost Soldier, Soldier, Swordsman
+40:		Soldier, Swordsman, Red Elixir
 40:		enter from 41
 		Slime Man x 2
 
@@ -508,9 +508,9 @@ Checkpoint: Clean Up
 
 41:		enter from E2
 		Slime Lord, YD, Red Elixir, ATK, YK x 3
-46:		YD, BD, Red Slime, Skeleton C, Big Bat, Zombie, Solider, Swordsman, Knight, Slime Lord, Magician B, Magic Key
+46:		YD, BD, Red Slime, Skeleton C, Big Bat, Zombie, Soldier, Swordsman, Knight, Slime Lord, Magician B, Magic Key
 34:		use Magic Key
-		Green Slime, Red Slime, Bat, Big Slime, Slime Man, Ghost Solider, Solider x 2, Knight x 2, Swordsman
+		Green Slime, Red Slime, Bat, Big Slime, Slime Man, Ghost Soldier, Soldier x 2, Knight x 2, Swordsman
 		Red Elixir x 2, ATK, DEF, YK x 9, RK
 46:		Slime Lord, Magician B
 		Vampire Bat, YD, Magician B, Red Elixir, ATK

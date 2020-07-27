@@ -348,6 +348,7 @@ Checkpoint: 3rd Altar - 740
 
 33:		YD, Blue Elixir
 		Ghost Soldier x 2, Soldier x 2
+		Knight Sword
 32:		Soldier, YD, ATK, DEF
 02:		BD, Gate-Keeper B x 2
 		talk to Merchant, 1000 Gold
@@ -382,7 +383,7 @@ Checkpoint: 3rd Altar - 920
 		use Magic Mattock, Red Elixir x 4, YK x 3, Destructible Ball
 		BD
 38:		RD, Slime Man, YK
-		Slime, YD
+		Slime Man, YD
 		YD, Ghost Soldier, YD, Ghost Soldier, Blue Elixir, YK
 		Soldier, YD, Zombie, Swordsman, YD, Gate-Keeper B x 2, Knight Shield
 
@@ -427,13 +428,14 @@ Checkpoint: Knight Shield
 
 41:		walk by Magic Sergeant, HP halfed
 		YD x 3
+42:		cutscene
 39:		Red Elixir
 		Merchant: -2000 Gold, BK x 3
 40:		Blue Elixir x 3
 		BD, Knight, Blue Elixir, ATK, DEF, YK
 42:		YD, Slime Lord, YD, Slime Lord
 43:		BD, YD
-44:		use Warp Staff
+45:		use Warp Staff
 		Wings to Fly Up
 		use Warp Staff
 43:		use Wings to Fly Up

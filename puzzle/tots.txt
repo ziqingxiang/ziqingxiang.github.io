@@ -385,7 +385,7 @@ Checkpoint: 3rd Altar - 920
 38:		RD, Slime Man, YK
 		Slime Man, YD
 		YD, Ghost Soldier, YD, Ghost Soldier, Blue Elixir, YK
-		Soldier, YD, Zombie, Swordsman, YD, Gate-Keeper B x 2, Knight Shield
+		Soldier, YD, Zombie, Swordsman, YD, Gate-Keeper B x 2, secret wall, Knight Shield
 
 
 --------------------------------

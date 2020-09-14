@@ -12,7 +12,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 ## Algebraic Combinatorics
 * Classification of spherical $$2$$-distance $$\{4, 2, 1\}$$-designs by solving Diophantine equations, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/).
   [(PDF)](data/Classification of feasible parameters by solving Diophantine equations.pdf) \\
-  To appear in Taiwanese Journal of Mathematics. \\
+  To appear in Taiwanese Journal of Mathematics. [doi:10.11650/tjm/200601](http://dx.doi.org/10.11650/tjm/200601) \\
   Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions.
   [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb)
   [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.pdf)
@@ -48,7 +48,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
   to appear in the RSME Springer Series.
 * On $$q$$-Schur algebras corresponding to Hecke algebras of type B, joint work with [Chun-Ju Lai](https://faculty.franklin.uga.edu/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
   [(PDF)](data/On q-Schur algebras corresponding to Hecke algebras of type B.pdf) \\
-  Submitted. Feb. 2019.
+  To appear in Transformation Groups.
 * [Support varieties for Hecke algebras](https://intlpress.com/site/pub/pages/journals/items/hha/content/vols/0021/0002/a005/index.html), joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
   [(PDF)](data/Support varieties for Hecke algebras.pdf) \\
   Homology, Homotopy and Applications, 21(2), 59-82, 2019. 

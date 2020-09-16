@@ -6,6 +6,12 @@ permalink: /talks
 
 ## Conference Talks
 
+* Sep. 2, 2020. On $$q$$-Schur algebras of classical type, \\
+  [2020 Taipei Workshop on Representation Theory and Related Topics](https://www.math.sinica.edu.tw/www/file_upload/conference/2020rep/202008.html),
+  Academia Sinica.
+* Jun. 28, 2020. Graph orientations and the matrix-tree theorem,
+  [$$2 \pi$$ day](http://www.math.sjtu.edu.cn/upload/firstpage/twoPiDay.pdf),
+  Shanghai Jiao Tong University (online).
 * Aug. 15, 2019. Root systems over $$F_2$$, \\
   [Groups and Graphs, Designs and Dynamics](http://math.sjtu.edu.cn/conference/G2D2/),
   Three Gorges Mathematical Research Center.
@@ -69,12 +75,26 @@ permalink: /talks
 
 ## Seminar talks
 
+* Sep. 29, 2020. TBD,
+  [Colloquium](https://sites.google.com/site/hsinyuanhuangnctu/colloquium-fall-2020),
+  National Chiao Tung University.
+* Sep. 18, 2020. Solving Diophantine equations arising from algebraic combinatorics,
+  [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract_view.jsp?seminar_id=4902),
+  Academia Sinica.
+* Sep. 11, 2020. A matrix-tree theorem on mixed graphs,
+  [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract_view.jsp?seminar_id=4895),
+  Academia Sinica.
+* Jul. 31, 2020. Some mathematics behind the lights out game,
+  [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract_view.jsp?seminar_id=4890),
+  Academia Sinica.
 * Mar. 26, 2020. On $$q$$-Schur algebras of classical types, \\
   Colloquium, National Cheng Kung University.
 * Mar. 18, 2020. An invitation to spherical designs, \\
-  [Taipei Postdoc Seminar](https://www.math.sinica.edu.tw/www/file_upload/conference/2016TPS/index.html), National Center for Theoretical Sciences.
+  [Taipei Postdoc Seminar](https://www.math.sinica.edu.tw/www/file_upload/conference/2016TPS/index.html),
+  National Center for Theoretical Sciences.
 * Nov. 6, 2019. Support varieties for Iwahori-Hecke algebras, \\
-  [Seminar in Representation Theory](https://www.math.sinica.edu.tw/www/seminar/sem14_his_c.jsp?year=2019), Academia Sinica.
+  [Seminar in Representation Theory](https://www.math.sinica.edu.tw/www/seminar/abstract_view.jsp?seminar_id=4816),
+  Academia Sinica.
 * Jun. 21, 2019. Support varieties for Iwahori-Hecke algebras, \\
   Algebra Seminar, Henan University.
 * Apr. 1, 2019. On $$q$$-Schur algebras of classical type, \\

@@ -12,7 +12,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 ## Algebraic Combinatorics
 * Classification of spherical $$2$$-distance $$\{4, 2, 1\}$$-designs by solving Diophantine equations, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/).
   [(PDF)](data/Classification of feasible parameters by solving Diophantine equations.pdf) \\
-  To appear in Taiwanese Journal of Mathematics. [doi:10.11650/tjm/200601](http://dx.doi.org/10.11650/tjm/200601) \\
+  Taiwanese Journal of Mathematics. [doi:10.11650/tjm/200601](http://dx.doi.org/10.11650/tjm/200601) \\
   Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions.
   [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb)
   [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.pdf)
@@ -62,6 +62,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 * Positive matrices, primitive matrices, scrambling matrices and contractible matrices, joint work with [Xinmao Wang](http://math.ustc.edu.cn/new/teachersinfo1.php?id=69) and [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/).
 * Fiber products of P-polynomial association schemes. [(abstract)](data/Product of P-polynomial association schemes.pdf)
 * On $$s$$-distance sets in real hyperbolic space.
+* Hyperbolicity of the product graphs.
 
 ## Contact
 * Email: <xiang@gate.sinica.edu.tw>

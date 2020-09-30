@@ -75,17 +75,19 @@ permalink: /talks
 
 ## Seminar talks
 
-* Sep. 29, 2020. TBD,
+* Sep. 29, 2020. Majorana representation of complex vectors, Temperley-Lieb category, and two variable hypergeometric series,
   [Colloquium](https://sites.google.com/site/hsinyuanhuangnctu/colloquium-fall-2020),
   National Chiao Tung University.
+* Sep. 25, 2020. Cactus skeleton: a generalization of wheels within wheels theorem ,
+  [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract/4904.htm)
 * Sep. 18, 2020. Solving Diophantine equations arising from algebraic combinatorics,
-  [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract_view.jsp?seminar_id=4902),
+  [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract/4902.htm),
   Academia Sinica.
 * Sep. 11, 2020. A matrix-tree theorem on mixed graphs,
-  [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract_view.jsp?seminar_id=4895),
+  [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract/4895.htm),
   Academia Sinica.
 * Jul. 31, 2020. Some mathematics behind the lights out game,
-  [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract_view.jsp?seminar_id=4890),
+  [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract/4890.htm),
   Academia Sinica.
 * Mar. 26, 2020. On $$q$$-Schur algebras of classical types, \\
   Colloquium, National Cheng Kung University.
@@ -93,7 +95,7 @@ permalink: /talks
   [Taipei Postdoc Seminar](https://www.math.sinica.edu.tw/www/file_upload/conference/2016TPS/index.html),
   National Center for Theoretical Sciences.
 * Nov. 6, 2019. Support varieties for Iwahori-Hecke algebras, \\
-  [Seminar in Representation Theory](https://www.math.sinica.edu.tw/www/seminar/abstract_view.jsp?seminar_id=4816),
+  [Seminar in Representation Theory](https://www.math.sinica.edu.tw/www/seminar/abstract/4816.htm),
   Academia Sinica.
 * Jun. 21, 2019. Support varieties for Iwahori-Hecke algebras, \\
   Algebra Seminar, Henan University.

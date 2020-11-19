@@ -6,6 +6,9 @@ permalink: /talks
 
 ## Conference Talks
 
+* Nov. 8, 2020. Finiteness of tight combinatorial designs. \\
+  Workshop on Combinatorics,
+  Shanghai Jiao Tong University (online).
 * Sep. 2, 2020. On $$q$$-Schur algebras of classical type, \\
   [2020 Taipei Workshop on Representation Theory and Related Topics](https://www.math.sinica.edu.tw/www/file_upload/conference/2020rep/202008.html),
   Academia Sinica.

@@ -4,6 +4,9 @@ title: Teaching
 permalink: /teaching
 ---
 
+## National Center for Theoretical Sciences
+* Fall 2020: Algebraic Combinatorics \\
+
 ## University of Georgia
 * Spring 2018: MATH - Precalculus - Section 20571
 * Fall 2017: MATH 1113 - Precalculus - Sections 15369 and 29605

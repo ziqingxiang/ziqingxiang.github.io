@@ -9,25 +9,25 @@ permalink: /talks
 * Nov. 8, 2020. Finiteness of tight combinatorial designs. \\
   Workshop on Combinatorics,
   Shanghai Jiao Tong University (online).
-* Sep. 2, 2020. On $$q$$-Schur algebras of classical type, \\
+* Sep. 2, 2020. On \(q\)-Schur algebras of classical type, \\
   [2020 Taipei Workshop on Representation Theory and Related Topics](https://www.math.sinica.edu.tw/www/file_upload/conference/2020rep/202008.html),
   Academia Sinica.
 * Jun. 28, 2020. Graph orientations and the matrix-tree theorem,
-  [$$2 \pi$$ day](http://www.math.sjtu.edu.cn/upload/firstpage/twoPiDay.pdf),
+  [\(2 \pi\) day](http://www.math.sjtu.edu.cn/upload/firstpage/twoPiDay.pdf),
   Shanghai Jiao Tong University (online).
-* Aug. 15, 2019. Root systems over $$F_2$$, \\
+* Aug. 15, 2019. Root systems over \(F_2\), \\
   [Groups and Graphs, Designs and Dynamics](http://math.sjtu.edu.cn/conference/G2D2/),
   Three Gorges Mathematical Research Center.
-* Jul. 11, 2019. On $$q$$-Schur algebras of classical type, \\
+* Jul. 11, 2019. On \(q\)-Schur algebras of classical type, \\
   [International Conference on Representation Theory VIII](http://www.math.ksu.edu/~zlin/ICRT8),
   Harbin Engineering University.
 * Jul. 1, 2019. New lower bound on the sizes of designs, \\
   [The 2019 Workshop on Combinatorics and Quantum Information Theory](https://www.mikio-nakahara.com/workshop/CQIT2019/),
   Shanghai University.
-* May 13, 2019. Isomorphism theorem between $$q$$-Schur algebras of classical type, \\
+* May 13, 2019. Isomorphism theorem between \(q\)-Schur algebras of classical type, \\
   [Southeastern Lie Theory Workshop XI](https://www.math.lsu.edu/~pramod/selie/11/),
   Louisiana State University.
-* Mar. 15, 2019. Isomorphism theorem between $$q$$-Schur algebras of type B and type A, \\
+* Mar. 15, 2019. Isomorphism theorem between \(q\)-Schur algebras of type B and type A, \\
   [Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2261_program.html),
   Auburn University.
 * Oct. 19, 2018. Diophantine equations related to tight designs, \\
@@ -48,7 +48,7 @@ permalink: /talks
 * Nov. 25, 2017. [An explicit construction of spherical designs](data/20171125 - An explicit construction of spherical designs.pdf), \\
   [International workshop on Bannai-Ito theory](http://person.zju.edu.cn/en/tfeng/706390.html),
   Zhejiang University.
-* Apr. 25, 2015. The lit-only $$\sigma$$-game, \\
+* Apr. 25, 2015. The lit-only \(\sigma\)-game, \\
   [2015 Workshop on Combinatorics and Applications at SJTU](http://math.sjtu.edu.cn/Conference/2015WCA/home.php),
   Shanghai Jiao Tong University.
 * Apr. 24, 2015. Spherical designs over a number field, \\
@@ -60,16 +60,16 @@ permalink: /talks
 * Nov. 19, 2013. [Product of P-polynomial association schemes](data/20131119 - Product of P-polynomial association schemes.pdf), \\
   [Workshop on Algebraic Combinatorics](http://pip.hebcma.com/mjm/),
   Hebei Normal University.
-* Jun. 24, 2013. [Lit-only $$\sigma$$-game](data/20130624 - Lit-only sigma-game.pdf), \\
+* Jun. 24, 2013. [Lit-only \(\sigma\)-game](data/20130624 - Lit-only sigma-game.pdf), \\
   [The 2nd Pacific Rim Mathematical Association Congress](http://meeting.healife.com/prima2013/),
   Shanghai Jiao Tong University.
-* Nov. 21, 2012. Some $$s$$-distance set in hyperbolic space, \\
+* Nov. 21, 2012. Some \(s\)-distance set in hyperbolic space, \\
   [Mini-Workshop on Spherical Designs and Related Topics](http://math.sjtu.edu.cn/conference/mini/),
   Shanghai Jiao Tong University.
 * Nov. 11, 2012. Incidence matrix and cover matrix, \\
   The 2nd Japan-Taiwan Conference on Combinatorics and its Applications,
   Nagoya University.
-* Aug. 18, 2012. [Nonexistence of nontrivial tight $$8$$-design](data/20120818 - Nonexistence of nontrivial tight 8-design.pdf), \\
+* Aug. 18, 2012. [Nonexistence of nontrivial tight \(8\)-design](data/20120818 - Nonexistence of nontrivial tight 8-design.pdf), \\
   [2012 Shanghai Conference on Algebraic Combinatorics](http://math.sjtu.edu.cn/Conference/SCAC/),
   Shanghai Jiao Tong University.
 * Sep. 16, 2011. Fisher type inequality, \\
@@ -92,7 +92,7 @@ permalink: /talks
 * Jul. 31, 2020. Some mathematics behind the lights out game,
   [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract/4890.htm),
   Academia Sinica.
-* Mar. 26, 2020. On $$q$$-Schur algebras of classical types, \\
+* Mar. 26, 2020. On \(q\)-Schur algebras of classical types, \\
   Colloquium, National Cheng Kung University.
 * Mar. 18, 2020. An invitation to spherical designs, \\
   [Taipei Postdoc Seminar](https://www.math.sinica.edu.tw/www/file_upload/conference/2016TPS/index.html),
@@ -102,7 +102,7 @@ permalink: /talks
   Academia Sinica.
 * Jun. 21, 2019. Support varieties for Iwahori-Hecke algebras, \\
   Algebra Seminar, Henan University.
-* Apr. 1, 2019. On $$q$$-Schur algebras of classical type, \\
+* Apr. 1, 2019. On \(q\)-Schur algebras of classical type, \\
   Algebra Seminar, University at Buffalo.
 * Mar. 18, 2019. Representation theory for Iwahori-Hecke algebras and Schur algebras of classical type, \\
   Algebra Seminar, University of Georgia.
@@ -127,7 +127,7 @@ permalink: /talks
 * Apr. 13, 2016. Sphere packings, spherical codes and spherical designs, \\
   [Number Theory Seminar](https://calendar.google.com/calendar/event?eid=bHZnc2xpN3Q5ZGU4OWRvN3NqaGM3cjJkNzQgdWdhbnVtYmVydGhlb3J5QG0&ctz=America/New_York),
   University of Georgia.
-* Jan. 28, 2015. Nonexistence of tight $$8$$-design, \\
+* Jan. 28, 2015. Nonexistence of tight \(8\)-design, \\
   [Number Theory Seminar](https://calendar.google.com/calendar/event?eid=ZmtqNjFvYWJxZW4zY2lrNjlqcGZnZzFzaDAgdWdhbnVtYmVydGhlb3J5QG0&ctz=America/New_York),
   University of Georgia.
 * Jul. 9, 2014. Structure of strongly connected digraphs, \\
@@ -139,15 +139,15 @@ permalink: /talks
 * Jun. 13, 2013. Relative designs, totally positive sequence and zero distribution, \\
   [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2013/home.php),
   Shanghai Jiao Tong University.
-* Nov. 21, 2012. Some $$s$$-distance sets in hyperbolic space, \\
+* Nov. 21, 2012. Some \(s\)-distance sets in hyperbolic space, \\
   [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2012/),
   Shanghai Jiao Tong University.
-* Jun. 6, 2012. On the nonexistence of nontrivial tight $$8$$-design, \\
+* Jun. 6, 2012. On the nonexistence of nontrivial tight \(8\)-design, \\
   [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2012/),
   Shanghai Jiao Tong University.
-* Apr. 22, 2012. Rational spherical $$t$$-semidesign, \\
+* Apr. 22, 2012. Rational spherical \(t\)-semidesign, \\
   [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2012/),
   Shanghai Jiao Tong University.
-* Mar. 4, 2012. A glimpse at $$P$$-polynomial association schemes, \\
+* Mar. 4, 2012. A glimpse at \(P\)-polynomial association schemes, \\
   [Combinatorics Seminar](http://math.sjtu.edu.cn/conference/Bannai/2012/),
   Shanghai Jiao Tong University.

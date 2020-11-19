@@ -10,10 +10,10 @@ I received my Ph.D. from the University of Georgia, USA, in May 2019. My advisor
 I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.math.sinica.edu.tw/). My host is [Ching Hung Lam](https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=chlam).
 
 ## Algebraic Combinatorics
-* [Classification of spherical \(2\)-distance \(\{4, 2, 1\}\)-designs by solving Diophantine equations](https://doi.org/10.11650/tjm/200601), joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/).
+* [Classification of spherical $$2$$-distance $$\{4, 2, 1\}$$-designs by solving Diophantine equations](https://doi.org/10.11650/tjm/200601), joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/).
   [(PDF)](data/Classification of feasible parameters by solving Diophantine equations.pdf) \\
   Taiwanese Journal of Mathematics. [doi:10.11650/tjm/200601](https://doi.org/10.11650/tjm/200601) \\
-  Supplemental material: Mathematica code to solve a certain degree \(10\) Diophantine equation in \(3\) variables under some conditions.
+  Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions.
   [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb)
   [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.pdf)
 * Explicit spherical designs.
@@ -23,17 +23,17 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
   [(PDF)](data/Rational designs.pdf) \\
   Advances in Mathematics, 352, 541-571, 2019.
   [doi:10.1016/j.aim.2019.06.012](https://doi.org/10.1016/j.aim.2019.06.012)
-* [Nonexistence of nontrivial tight \(8\)-designs](https://doi.org/10.1007/s10801-017-0776-0).
+* [Nonexistence of nontrivial tight $$8$$-designs](https://doi.org/10.1007/s10801-017-0776-0).
   [(PDF)](data/Nonexistence of nontrivial tight 8-designs.pdf) \\
   Journal of Algebraic Combinatorics, 47(2), 301-318, 2018.
   [doi:10.1007/s10801-017-0776-0](https://doi.org/10.1007/s10801-017-0776-0)
-* [A Fisher type inequality for weighted regular \(t\)-wise balanced designs](https://doi.org/10.1016/j.jcta.2012.04.008).
+* [A Fisher type inequality for weighted regular $$t$$-wise balanced designs](https://doi.org/10.1016/j.jcta.2012.04.008).
   [(PDF)](data/A Fisher type inequality for weighted regular t-wise balanced designs.pdf) \\
   Journal of Combinatorial Theory A, 119(7), 1523-1527, 2012.
   [doi:10.1016/j.jcta.2012.04.008](https://doi.org/10.1016/j.jcta.2012.04.008)
 
 ## Graph Theory
-* [The lit-only \(\sigma\)-game: some mathematics behind a puzzle for kids](https://www.indianmathsociety.org.in/mathstudent-part-2-2019.pdf), joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/Home.php).
+* [The lit-only $$\sigma$$-game: some mathematics behind a puzzle for kids](https://www.indianmathsociety.org.in/mathstudent-part-2-2019.pdf), joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/Home.php).
   [(PDF)](data/The lit-only sigma-game - Some Mathematics behind a puzzle for kids.pdf) \\
   The Mathematics Student, 88(3-4), 67-90, 2019.
 * [Hamiltonian decomposition of prisms over cubic graphs](http://dmtcs.episciences.org/2079), joint work with [Moshe Rosenfeld](http://www.tacoma.washington.edu/techabout/profile.cfm?ID=303), \\
@@ -46,7 +46,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 ## Representation Theory
 * Chapter 4 of "Introduction to Soergel bimodules" by Ben Elias, Shotaro Makisumi, Ulrich Thiel, Geordie Williamson, \\
   RSME Springer Series 5, 2020. [doi:10.1007/978-3-030-48826-0](https://doi.org/10.1007/978-3-030-48826-0)
-* [On \(q\)-Schur algebras corresponding to Hecke algebras of type B](https://doi.org/10.1007/s00031-020-09628-7), joint work with [Chun-Ju Lai](https://www.math.sinica.edu.tw/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
+* [On $$q$$-Schur algebras corresponding to Hecke algebras of type B](https://doi.org/10.1007/s00031-020-09628-7), joint work with [Chun-Ju Lai](https://www.math.sinica.edu.tw/cjlai/) and [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
   [(PDF)](data/On q-Schur algebras corresponding to Hecke algebras of type B.pdf) \\
   Transformation Groups, 2020. [doi:10.1007/s00031-020-09628-7](https://doi.org/10.1007/s00031-020-09628-7)
 * [Support varieties for Hecke algebras](https://doi.org/10.4310/HHA.2019.v21.n2.a5), joint work with [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
@@ -58,11 +58,11 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 * Finiteness of tight combinatorial designs.
 * New lower bound on the sizes of designs. [(abstract)](data/New lower bound on the sizes of designs.pdf)
 * Hamiltonian thickness and spanning topological minors, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/) and [Yinfeng Zhu](http://zhuyinfeng.org/). [(abstract)](data/Hamiltonian thickness.pdf)
-* Lit-only \(\sigma\)-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)
+* Lit-only $$\sigma$$-game, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/). [(abstract)](data/Lig-only sigma-game.pdf)
 * Inferring phylogenies from incomplete metric information, joint work with [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/), Zeying Xu, [Yinfeng Zhu](http://zhuyinfeng.org/).
 * Positive matrices, primitive matrices, scrambling matrices and contractible matrices, joint work with [Xinmao Wang](http://math.ustc.edu.cn/new/teachersinfo1.php?id=69) and [Yaokun Wu](http://math.sjtu.edu.cn/faculty/ykwu/).
 * Fiber products of P-polynomial association schemes. [(abstract)](data/Product of P-polynomial association schemes.pdf)
-* On \(s\)-distance sets in real hyperbolic space.
+* On $$s$$-distance sets in real hyperbolic space.
 * Hyperbolicity of the product graphs.
 
 ## Contact

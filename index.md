@@ -10,15 +10,15 @@ I received my Ph.D. from the University of Georgia, USA, in May 2019. My advisor
 I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.math.sinica.edu.tw/). My host is [Ching Hung Lam](https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=chlam).
 
 ## Algebraic Combinatorics
+* Explicit spherical designs.
+  [(PDF)](data/Explicit spherical designs.pdf) \\
+  To appear in Algebraic Combinatorics, 2022.
 * [Classification of spherical $$2$$-distance $$\{4, 2, 1\}$$-designs by solving Diophantine equations](https://doi.org/10.11650/tjm/200601), joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/).
   [(PDF)](data/Classification of feasible parameters by solving Diophantine equations.pdf) \\
   Taiwanese Journal of Mathematics, 25, 1-22, 2021. [doi:10.11650/tjm/200601](https://doi.org/10.11650/tjm/200601) \\
   Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions.
   [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb)
   [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.pdf)
-* Explicit spherical designs.
-  [(PDF)](data/Explicit spherical designs.pdf) \\
-  Submitted, Jul. 2018.
 * [Rational designs](https://doi.org/10.1016/j.aim.2019.06.012), joint work with [Zhen Cui](http://math.sjtu.edu.cn/Showteacher.aspx?id=55&info_lb=98&flag=98) and [Jiacheng Xia](http://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xxiaji&departmentId=013006).
   [(PDF)](data/Rational designs.pdf) \\
   Advances in Mathematics, 352, 541-571, 2019.

@@ -6,6 +6,9 @@ permalink: /talks
 
 ## Conference Talks
 
+* Jan. 24, 2022. Solving Diophantine equations arising from algebraic combinatorics, \\
+  [2022 Workshop on Algebraic Combinatorics](https://www.math.sinica.edu.tw/www/file_upload/conference/202201Alg/index.html),
+  Academia Sinica (online).
 * Nov. 8, 2020. Finiteness of tight combinatorial designs. \\
   Workshop on Combinatorics,
   Shanghai Jiao Tong University (online).
@@ -81,7 +84,7 @@ permalink: /talks
 * Sep. 29, 2020. Majorana representation of complex vectors, Temperley-Lieb category, and two variable hypergeometric series,
   [Colloquium](https://sites.google.com/site/hsinyuanhuangnctu/colloquium-fall-2020),
   National Chiao Tung University.
-* Sep. 25, 2020. Cactus skeleton: a generalization of wheels within wheels theorem ,
+* Sep. 25, 2020. Cactus skeleton: a generalization of wheels within wheels theorem,
   [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract/4904.htm)
 * Sep. 18, 2020. Solving Diophantine equations arising from algebraic combinatorics,
   [Seminar on Combinatorics](https://www.math.sinica.edu.tw/www/seminar/abstract/4902.htm),

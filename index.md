@@ -12,7 +12,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 ## Algebraic Combinatorics
 * [Classification of spherical $$2$$-distance $$\{4, 2, 1\}$$-designs by solving Diophantine equations](https://doi.org/10.11650/tjm/200601), joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/) and [Yan Zhu](http://yanzhu.org/).
   [(PDF)](data/Classification of feasible parameters by solving Diophantine equations.pdf) \\
-  Taiwanese Journal of Mathematics. [doi:10.11650/tjm/200601](https://doi.org/10.11650/tjm/200601) \\
+  Taiwanese Journal of Mathematics, 25, 1-22, 2021. [doi:10.11650/tjm/200601](https://doi.org/10.11650/tjm/200601) \\
   Supplemental material: Mathematica code to solve a certain degree $$10$$ Diophantine equation in $$3$$ variables under some conditions.
   [(Mathematica Notebook)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.nb)
   [(PDF)](data/Mathematica code to solve a certain degree 10 Diophantine equation in 3 variables under some conditions.pdf)

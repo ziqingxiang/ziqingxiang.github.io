@@ -15,7 +15,7 @@ permalink: /talks
 * Sep. 2, 2020. On $$q$$-Schur algebras of classical type, \\
   [2020 Taipei Workshop on Representation Theory and Related Topics](https://www.math.sinica.edu.tw/www/file_upload/conference/2020rep/202008.html),
   Academia Sinica.
-* Jun. 28, 2020. Graph orientations and the matrix-tree theorem,
+* Jun. 28, 2020. Graph orientations and the matrix-tree theorem, \\
   [$$2 \pi$$ day](http://www.math.sjtu.edu.cn/upload/firstpage/twoPiDay.pdf),
   Shanghai Jiao Tong University (online).
 * Aug. 15, 2019. Root systems over $$F_2$$, \\
@@ -81,6 +81,10 @@ permalink: /talks
 
 ## Seminar talks
 
+* Dec 10, 2021. Designs and codes, \\
+  Chinese Academy of Sciences (online).
+* Jan. 9, 2021. Designs and codes, \\
+  Southern University of Science and Technology (online).
 * Sep. 29, 2020. Majorana representation of complex vectors, Temperley-Lieb category, and two variable hypergeometric series, \\
   [Colloquium](https://sites.google.com/site/hsinyuanhuangnctu/colloquium-fall-2020),
   National Chiao Tung University.

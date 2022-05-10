@@ -5,9 +5,8 @@ permalink: /
 ---
 
 # Ziqing Xiang
-I received my Ph.D. from the University of Georgia, USA, in May 2019. My advisor is [Dan Nakano](http://alpha.math.uga.edu/~nakano/).
 
-I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.math.sinica.edu.tw/). My host is [Ching Hung Lam](https://www.math.sinica.edu.tw/www/people/websty1_20e.jsp?owner=chlam).
+I am going to join [Department of Mathematics](https://math.sustech.edu.cn/), [Southern University of Science and Technology](https://www.sustech.edu.cn/) soon.
 
 ## Algebraic Combinatorics
 * Explicit spherical designs.
@@ -66,15 +65,7 @@ I am now a postdoc at [Institute of Mathematics, Academia Sinica](https://www.ma
 * Hyperbolicity of the product graphs.
 
 ## Contact
-* Email: <xiang@gate.sinica.edu.tw>
 * Email: <xiang@ziqing.org>
-* Office: 624
-* Mailing address: \\
-Institute of Mathematics \\
-Academia Sinica \\
-6F, Astronomy-Mathematics Building \\
-No. 1, Sec. 4, Roosevelt Road \\
-Taipei 10617, Taiwan
 
 ## Research Interests
 * Combinatorics: Association Schemes, Design Theory, Graph Theory, Symbolic Dynamics, Phylogenetic combinatorics.

@@ -6,7 +6,7 @@ permalink: /
 
 # Ziqing Xiang
 
-I am going to join [Department of Mathematics](https://math.sustech.edu.cn/), [Southern University of Science and Technology](https://www.sustech.edu.cn/) soon.
+I am an Associate Professor in the [Department of Mathematics](https://math.sustech.edu.cn/), [Southern University of Science and Technology](https://www.sustech.edu.cn/).
 
 ## Algebraic Combinatorics
 * Explicit spherical designs.

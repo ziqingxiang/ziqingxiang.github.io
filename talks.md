@@ -6,6 +6,9 @@ permalink: /talks
 
 ## Conference Talks
 
+* Jun. 16, 2022. Nonexistence of $$s$$-distance $$2s$$-designs on projective unitary groups, \\
+  [16th International Symposium on Orthogonal Polynomials, Special Functions and Applications](https://www.crm.umontreal.ca/2022/OPSFA22/index_e.php),
+  Centre de recherches mathématiques (online).
 * Jan. 24, 2022. Solving Diophantine equations arising from algebraic combinatorics, \\
   [2022 Workshop on Algebraic Combinatorics](https://www.math.sinica.edu.tw/www/file_upload/conference/202201Alg/index.html),
   Academia Sinica (online).
@@ -81,6 +84,9 @@ permalink: /talks
 
 ## Seminar talks
 
+* Jun. 3, 2022. Line grpahs over the binary field, \\
+  [SCMS Combinatorics Seminar](https://scmscomb.github.io/),
+  Shanghai Center for Mathematical Sciences (online).
 * Dec 10, 2021. Designs and codes, \\
   Chinese Academy of Sciences (online).
 * Jan. 9, 2021. Designs and codes, \\

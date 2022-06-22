@@ -69,6 +69,6 @@ I am an Associate Professor in the [Department of Mathematics](https://math.sust
 * Office: College of Science M5005
 
 ## Research Interests
-* Combinatorics: Association Schemes, Design Theory, Graph Theory, Symbolic Dynamics, Phylogenetic combinatorics.
-* Number Theory: Diophantine Equation, Finiteness of integral points, Variable separated curves.
-* Representation Theory: Algebraic roups, Cohomology, Iwahori-Hecke Algebras, Quantum Groups, Schur Algebras.
+* Combinatorics: association schemes, design theory, graph theory, symbolic dynamics, phylogenetic combinatorics.
+* Number Theory: Diophantine equation, finiteness of integral points, variable separated curves.
+* Representation Theory: algebraic groups, cohomology, Iwahori-Hecke algebras, quantum groups, Schur algebras.

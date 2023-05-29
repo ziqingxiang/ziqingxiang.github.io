@@ -6,6 +6,12 @@ permalink: /talks
 
 ## Conference Talks
 
+* Apr. 14, 2023. Tight combinatorial designs and Diophantine equations, \\
+  [2023 Workshop on Number Theory and its Application](https://maths.whu.edu.cn/info/1115/19145.htm),
+  Wuhan University.
+* Nov. 11, 2022. Finiteness of tight combinatorial designs, \\
+  2022 Workshop on Combinatorics, Graph Theory and Group Theory,
+  Southern University of Science and Technology.
 * Jun. 16, 2022. Nonexistence of $$s$$-distance $$2s$$-designs on projective unitary groups, \\
   [16th International Symposium on Orthogonal Polynomials, Special Functions and Applications](https://www.crm.umontreal.ca/2022/OPSFA22/index_e.php),
   Centre de recherches mathématiques (online).

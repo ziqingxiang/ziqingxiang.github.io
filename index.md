@@ -6,9 +6,10 @@ permalink: /
 
 # Ziqing Xiang
 
-I am an Associate Professor in the [Department of Mathematics](https://math.sustech.edu.cn/), [Southern University of Science and Technology](https://www.sustech.edu.cn/).
+I am an Associate Professor in the [Department of Mathematics](https://math.sustech.edu.cn/) and [National Center For Applied Mathematics Shenzhen](https://ncams.sustech.edu.cn/), [Southern University of Science and Technology](https://www.sustech.edu.cn/).
 
 ## Algebraic Combinatorics
+* On the two-distance embedding in real Euclidean space of coherent configuration of type $$(2,2;3)$$, joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), Chin-Yen Lee and [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).
 * [Explicit spherical designs](https://doi.org/10.5802/alco.213).
   [(PDF)](data/Explicit spherical designs.pdf) \\
   Algebraic Combinatorics 5(2), 347-369, 2022. [doi:10.5802/alco.213](https://doi.org/10.5802/alco.213)
@@ -43,6 +44,7 @@ I am an Associate Professor in the [Department of Mathematics](https://math.sust
   Sep. 2018.
 
 ## Representation Theory
+* [Quantum wreath products and Schur-Weyl duality I](https://arxiv.org/abs/2304.14181), joint work with [Chun-Ju Lai](https://www.math.sinica.edu.tw/cjlai/) and [Daniel Nakano](http://alpha.math.uga.edu/~nakano/).
 * Chapter 4 of "Introduction to Soergel bimodules" by Ben Elias, Shotaro Makisumi, Ulrich Thiel, Geordie Williamson, \\
   RSME Springer Series 5, 2020. [doi:10.1007/978-3-030-48826-0](https://doi.org/10.1007/978-3-030-48826-0)
 * [On $$q$$-Schur algebras corresponding to Hecke algebras of type B](https://doi.org/10.1007/s00031-020-09628-7), joint work with [Chun-Ju Lai](https://www.math.sinica.edu.tw/cjlai/) and [Daniel Nakano](http://alpha.math.uga.edu/~nakano/).

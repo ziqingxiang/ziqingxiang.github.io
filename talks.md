@@ -6,6 +6,10 @@ permalink: /talks
 
 ## Conference Talks
 
+* Aug. 7, 2023. Quantum wreath product, \\
+[2023 International Algebra Conference in the Philippines](https://sites.google.com/g.msuiit.edu.ph/international-algebra-conferen/home), Mindanao State University-Iligan Institute of Technology.
+* Jun. 4, 2023. Finiteness of tight combinatorial designs, \\
+  [Workshop on Algebraic Combinatorics and its Applications](https://math.xjtu.edu.cn/info/1089/12183.htm), Xi'an Jiaotong University. 
 * Apr. 14, 2023. Tight combinatorial designs and Diophantine equations, \\
   [2023 Workshop on Number Theory and its Application](https://maths.whu.edu.cn/info/1115/19145.htm),
   Wuhan University.

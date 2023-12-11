@@ -47,9 +47,9 @@ I am an Associate Professor in the [Department of Mathematics](https://math.sust
 * [Quantum wreath products and Schur-Weyl duality I](https://arxiv.org/abs/2304.14181), joint work with [Chun-Ju Lai](https://www.math.sinica.edu.tw/cjlai/) and [Daniel Nakano](http://alpha.math.uga.edu/~nakano/).
 * Chapter 4 of "Introduction to Soergel bimodules" by Ben Elias, Shotaro Makisumi, Ulrich Thiel, Geordie Williamson, \\
   RSME Springer Series 5, 2020. [doi:10.1007/978-3-030-48826-0](https://doi.org/10.1007/978-3-030-48826-0)
-* [On $$q$$-Schur algebras corresponding to Hecke algebras of type B](https://doi.org/10.1007/s00031-020-09628-7), joint work with [Chun-Ju Lai](https://www.math.sinica.edu.tw/cjlai/) and [Daniel Nakano](http://alpha.math.uga.edu/~nakano/).
+* [$$q$$-Schur algebras corresponding to Hecke algebras of type B](https://doi.org/10.1007/s00031-020-09628-7), joint work with [Chun-Ju Lai](https://www.math.sinica.edu.tw/cjlai/) and [Daniel Nakano](http://alpha.math.uga.edu/~nakano/).
   [(PDF)](data/On q-Schur algebras corresponding to Hecke algebras of type B.pdf) \\
-  Transformation Groups, 2020. [doi:10.1007/s00031-020-09628-7](https://doi.org/10.1007/s00031-020-09628-7)
+  Transformation Groups 27, 983-1024, 2022. [doi:10.1007/s00031-020-09628-7](https://doi.org/10.1007/s00031-020-09628-7)
 * [Support varieties for Hecke algebras](https://doi.org/10.4310/HHA.2019.v21.n2.a5), joint work with [Daniel Nakano](http://alpha.math.uga.edu/~nakano/).
   [(PDF)](data/Support varieties for Hecke algebras.pdf) \\
   Homology, Homotopy and Applications, 21(2), 59-82, 2019. [doi:10.4310/HHA.2019.v21.n2.a5](https://doi.org/10.4310/HHA.2019.v21.n2.a5)

@@ -14,12 +14,12 @@ We use Mathematica to prove three single variable real inequalities in Propositi
 
 ## C++ (MPI) code
 
-We use C++ to search all integer triples $$(s, x, y)$$ such that
+We use C++ to search all integer triples $$(s, x, y)$$ in the region
 * $$10 \leq s \leq 287$$;
 * $$1 \leq x \leq 15,000,000,000$$;
 * $$x + s + 2 \leq y \leq 2 x + 1$$;
 
-and that
+such that
 
 * $$\alpha_{s, i} := {s \choose i} \frac{x^{\overline{i}}(x + 1)^{\overline{i}}}{y^{\overline{i}}}$$ is an integer for each $$i \in \{1, 2, 3, 4, 5, 6\}$$.
 

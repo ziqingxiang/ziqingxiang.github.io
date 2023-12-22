@@ -39,4 +39,4 @@ We run the program on a cluster using a total of 480 2.4GHz cores.
 
 The raw output could be found below.
 
-[Output](data/tight-block-design-C++-MPI-out.zip)
+[Output](data/tight-block-design-C++-MPI-out.txt)

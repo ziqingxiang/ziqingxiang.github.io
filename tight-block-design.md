@@ -29,7 +29,7 @@ The [Boost](https://www.boost.org/) libraries are needed to compile the code. We
 
 [Source code](data/tight-block-design-C++-MPI.zip)
 
-We run the code on 480 2.4GHz cores.
+We run the program on a cluster using a total of 480 2.4GHz cores.
 * There are $$125,095,478,214,252$$ triples with integer $$\alpha_{s, 1}$$.
 * There are $$25,535,426$$ triples with integer $$\alpha_{s, 1}$$ and $$\alpha_{s, 2}$$.
 * There are $$2,742$$ triples with integer $$\alpha_{s, 1}, \alpha_{s, 2}, \alpha_{s, 3}$$.

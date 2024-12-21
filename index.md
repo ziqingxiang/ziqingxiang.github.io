@@ -12,6 +12,7 @@ I am an Associate Professor in the [Department of Mathematics](https://math.sust
 * [Classification of tight $$2s$$-designs with $$s \geq 2$$](https://arxiv.org/abs/2312.14778). [(PDF)](data/Classification of tight 2s-designs with s geq 2.pdf) \\
   Supplemental material: [codes and output](tight-block-design)
 * [On the two-distance embedding in real Euclidean space of coherent configuration of type $$(2,2;3)$$](https://arxiv.org/abs/2211.02331), joint work [Eiichi Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=11296), [Etsuko Bannai](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=10669), Chin-Yen Lee and [Wei-Hsuan Yu](http://users.math.msu.edu/users/weihsuan/).
+  to appear in Discrete Mathematics \\
 * [Explicit spherical designs](https://doi.org/10.5802/alco.213).
   [(PDF)](data/Explicit spherical designs.pdf) \\
   Algebraic Combinatorics 5(2), 347-369, 2022. [doi:10.5802/alco.213](https://doi.org/10.5802/alco.213)
@@ -46,7 +47,8 @@ I am an Associate Professor in the [Department of Mathematics](https://math.sust
   Sep. 2018.
 
 ## Representation Theory
-* [Quantum wreath products and Schur-Weyl duality I](https://arxiv.org/abs/2304.14181), joint work with [Chun-Ju Lai](https://www.math.sinica.edu.tw/cjlai/) and [Daniel Nakano](http://alpha.math.uga.edu/~nakano/).
+* [Quantum wreath products and Schur-Weyl duality I](https://www.cambridge.org/core/journals/forum-of-mathematics-sigma/article/quantum-wreath-products-and-schurweyl-duality-i/E6AAAE543C72D5F6BC09FC38683B3F0D), joint work with [Chun-Ju Lai](https://www.math.sinica.edu.tw/cjlai/) and [Daniel Nakano](http://alpha.math.uga.edu/~nakano/). \\
+  Forum of Mathematics, Sigma, Volume 12, 2024, e108. [doi:10.1017/fms.2024.103](https://doi.org/10.1017/fms.2024.103)
 * Chapter 4 of "Introduction to Soergel bimodules" by Ben Elias, Shotaro Makisumi, Ulrich Thiel, Geordie Williamson, \\
   RSME Springer Series 5, 2020. [doi:10.1007/978-3-030-48826-0](https://doi.org/10.1007/978-3-030-48826-0)
 * [$$q$$-Schur algebras corresponding to Hecke algebras of type B](https://doi.org/10.1007/s00031-020-09628-7), joint work with [Chun-Ju Lai](https://www.math.sinica.edu.tw/cjlai/) and [Daniel Nakano](http://alpha.math.uga.edu/~nakano/).
